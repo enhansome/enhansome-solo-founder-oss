@@ -1,456 +1,374 @@
 {
   "items": [
     {
-      "description": "Pick the job, then pick one tool.",
-      "items": [],
-      "title": "Quick Start"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Backend/database/auth: Supabase",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 214587193,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:48:15Z",
+                "owner": "supabase",
+                "repo": "supabase",
+                "stars": 108158
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deploy: Coolify",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 332880689,
+                "language": "PHP",
+                "last_commit": "2026-08-19T12:42:44Z",
+                "owner": "coollabsio",
+                "repo": "coolify",
+                "stars": 60742
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Analytics: PostHog",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 235901813,
+                "language": "Python",
+                "last_commit": "2026-08-19T12:52:10Z",
+                "owner": "PostHog",
+                "repo": "posthog",
+                "stars": 37772
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Support: Chatwoot",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202291859,
+                "language": "Ruby",
+                "last_commit": "2026-08-19T12:34:58Z",
+                "owner": "chatwoot",
+                "repo": "chatwoot",
+                "stars": 35979
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Email: Listmonk",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193833307,
+                "language": "Go",
+                "last_commit": "2026-08-18T18:06:31Z",
+                "owner": "knadh",
+                "repo": "listmonk",
+                "stars": 22996
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Starter: Open SaaS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 726082384,
+                "language": "MDX",
+                "last_commit": "2026-08-06T11:28:44Z",
+                "owner": "wasp-lang",
+                "repo": "open-saas",
+                "stars": 15516
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Billing: Polar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 593558875,
+                "language": "Python",
+                "last_commit": "2026-08-19T12:50:51Z",
+                "owner": "polarsource",
+                "repo": "polar",
+                "stars": 10200
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Lean SaaS stack"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Build/release: fastlane",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27442967,
+                "language": "Ruby",
+                "last_commit": "2026-08-18T00:55:28Z",
+                "owner": "fastlane",
+                "repo": "fastlane",
+                "stars": 42005
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Demo video: OpenScreen",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 1073433866,
+                "language": "TypeScript",
+                "last_commit": "2026-06-17T02:34:20Z",
+                "owner": "siddharthvaddem",
+                "repo": "openscreen",
+                "stars": 39869
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iOS agent loop: XcodeBuildMCP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 945551361,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T20:00:35Z",
+                "owner": "getsentry",
+                "repo": "XcodeBuildMCP",
+                "stars": 6260
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "App previews: video-preview-appstore",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1227105163,
+                "language": "Swift",
+                "last_commit": "2026-05-12T05:56:49Z",
+                "owner": "mdo91",
+                "repo": "video-preview-appstore",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Screenshots: App Store Screenshots Generator",
+              "description": ", Appshot",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1234723345,
+                "language": "TypeScript",
+                "last_commit": "2026-05-10T20:32:07Z",
+                "owner": "jawwadfirdousi",
+                "repo": "appstore-screenshots-generator",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mobile app launch stack"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Coding: Codex",
+              "description": ", Claude Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 965415649,
+                "language": "Rust",
+                "last_commit": "2026-08-19T12:06:28Z",
+                "owner": "openai",
+                "repo": "codex",
+                "stars": 106806
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fresh docs: Context7",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 955620917,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T09:01:11Z",
+                "owner": "upstash",
+                "repo": "context7",
+                "stars": 60966
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Browser QA: Playwright MCP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 952688112,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T22:52:05Z",
+                "owner": "microsoft",
+                "repo": "playwright-mcp",
+                "stars": 36271
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub ops: GitHub MCP Server",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 942771284,
+                "language": "Go",
+                "last_commit": "2026-08-19T12:52:12Z",
+                "owner": "github",
+                "repo": "github-mcp-server",
+                "stars": 32350
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Design-to-code: Figma Context MCP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 931892749,
+                "language": "TypeScript",
+                "last_commit": "2026-08-07T04:58:42Z",
+                "owner": "GLips",
+                "repo": "Figma-Context-MCP",
+                "stars": 15678
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Agent-first build stack"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Blog/newsletter: Ghost",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9852918,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T12:41:30Z",
+                "owner": "TryGhost",
+                "repo": "Ghost",
+                "stars": 54796
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Social publishing: Postiz",
+              "description": ", Mixpost",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 664013991,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T11:34:32Z",
+                "owner": "gitroomhq",
+                "repo": "postiz-app",
+                "stars": 34859
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Link attribution: Dub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 529708137,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:42:42Z",
+                "owner": "dubinc",
+                "repo": "dub",
+                "stars": 24526
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deck/proposal analytics: Papermark",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 646985602,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T19:55:33Z",
+                "owner": "papermark",
+                "repo": "papermark",
+                "stars": 8953
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Content video: ViralMint",
+              "description": ", OpenShorts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1232235554,
+                "language": "Python",
+                "last_commit": "2026-08-18T18:50:41Z",
+                "owner": "openclaw-easy",
+                "repo": "ViralMint",
+                "stars": 74
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Product marketing stack"
+        }
+      ],
       "title": "Opinionated Stacks"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Backend/database/auth: Supabase",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T19:39:34Z",
-            "owner": "supabase",
-            "repo": "supabase",
-            "stars": 108139
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Deploy: Coolify",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-18T18:35:47Z",
-            "owner": "coollabsio",
-            "repo": "coolify",
-            "stars": 60725
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Analytics: PostHog",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T19:59:07Z",
-            "owner": "PostHog",
-            "repo": "posthog",
-            "stars": 37742
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Support: Chatwoot",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-18T17:39:12Z",
-            "owner": "chatwoot",
-            "repo": "chatwoot",
-            "stars": 35951
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Email: Listmonk",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T18:06:31Z",
-            "owner": "knadh",
-            "repo": "listmonk",
-            "stars": 22977
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Starter: Open SaaS",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "MDX",
-            "last_commit": "2026-08-06T11:28:44Z",
-            "owner": "wasp-lang",
-            "repo": "open-saas",
-            "stars": 15503
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Billing: Polar",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T19:49:34Z",
-            "owner": "polarsource",
-            "repo": "polar",
-            "stars": 10199
-          }
-        }
-      ],
-      "title": "Lean SaaS stack"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Build/release: fastlane",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-18T00:55:28Z",
-            "owner": "fastlane",
-            "repo": "fastlane",
-            "stars": 42002
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Demo video: OpenScreen",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2026-06-17T02:34:20Z",
-            "owner": "siddharthvaddem",
-            "repo": "openscreen",
-            "stars": 39869
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "iOS agent loop: XcodeBuildMCP",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T20:00:35Z",
-            "owner": "getsentry",
-            "repo": "XcodeBuildMCP",
-            "stars": 6257
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "App previews: video-preview-appstore",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-05-12T05:56:49Z",
-            "owner": "mdo91",
-            "repo": "video-preview-appstore",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Screenshots: App Store Screenshots Generator",
-          "description": ", Appshot",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-10T20:32:07Z",
-            "owner": "jawwadfirdousi",
-            "repo": "appstore-screenshots-generator",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Mobile app launch stack"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Coding: Codex",
-          "description": ", Claude Code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T19:23:57Z",
-            "owner": "openai",
-            "repo": "codex",
-            "stars": 106666
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fresh docs: Context7",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T17:30:11Z",
-            "owner": "upstash",
-            "repo": "context7",
-            "stars": 60939
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Browser QA: Playwright MCP",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T22:52:05Z",
-            "owner": "microsoft",
-            "repo": "playwright-mcp",
-            "stars": 36246
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GitHub ops: GitHub MCP Server",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T14:40:23Z",
-            "owner": "github",
-            "repo": "github-mcp-server",
-            "stars": 32338
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Design-to-code: Figma Context MCP",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-07T04:58:42Z",
-            "owner": "GLips",
-            "repo": "Figma-Context-MCP",
-            "stars": 15671
-          }
-        }
-      ],
-      "title": "Agent-first build stack"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Blog/newsletter: Ghost",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T19:53:18Z",
-            "owner": "TryGhost",
-            "repo": "Ghost",
-            "stars": 54793
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Social publishing: Postiz",
-          "description": ", Mixpost",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T15:07:36Z",
-            "owner": "gitroomhq",
-            "repo": "postiz-app",
-            "stars": 34829
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Link attribution: Dub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T19:48:16Z",
-            "owner": "dubinc",
-            "repo": "dub",
-            "stars": 24510
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Deck/proposal analytics: Papermark",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T19:55:33Z",
-            "owner": "papermark",
-            "repo": "papermark",
-            "stars": 8950
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Content video: ViralMint",
-          "description": ", OpenShorts",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T18:50:41Z",
-            "owner": "openclaw-easy",
-            "repo": "ViralMint",
-            "stars": 73
-          }
-        }
-      ],
-      "title": "Product marketing stack"
-    },
-    {
-      "description": "Find painful problems, communities, keywords, and trend signals.\nPlaybook: trend-to-content engine",
-      "items": [],
-      "title": "Ideation and validation"
-    },
-    {
-      "description": "Create landing pages, prototypes, and design-to-code workflows.",
-      "items": [],
-      "title": "Design and UX"
-    },
-    {
-      "description": "Start with a product-shaped repo instead of a blank folder.",
-      "items": [],
-      "title": "Starter kits"
-    },
-    {
-      "description": "Build the first useful product slice.",
-      "items": [],
-      "title": "MVP development"
-    },
-    {
-      "description": "Add accounts, sessions, teams, and SaaS-ready identity.",
-      "items": [],
-      "title": "Auth and identity"
-    },
-    {
-      "description": "Store users, content, files, events, and product data.",
-      "items": [],
-      "title": "Database and backend"
-    },
-    {
-      "description": "Use agents to code, test, browse, inspect design, and run product workflows.\nPlaybook: agent-assisted product build sprint",
-      "items": [],
-      "title": "AI agents and MCP"
-    },
-    {
-      "description": "Charge customers, meter usage, and handle subscriptions.",
-      "items": [],
-      "title": "Billing and monetization"
-    },
-    {
-      "description": "Learn what users do and what they need.",
-      "items": [],
-      "title": "Analytics and feedback"
-    },
-    {
-      "description": "Send newsletters, onboarding, transactional mail, and lifecycle nudges.",
-      "items": [],
-      "title": "Email and lifecycle messaging"
-    },
-    {
-      "description": "Talk to users, close deals, and build community loops.",
-      "items": [],
-      "title": "Support, CRM, and community"
-    },
-    {
-      "description": "Create demand, track campaigns, publish content, and convert leads.\n| TinyTools | OG image generator, SEO meta tag generator, favicon generator, AI background remover, color palette, AI robots.txt generator — all browser-based, no backend |",
-      "items": [],
-      "title": "Marketing and growth"
-    },
-    {
-      "description": "Create launch demos, shorts, UGC, raw-video edits, and programmatic video assets.",
-      "items": [],
-      "title": "Content and video"
-    },
-    {
-      "description": "Write docs, help centers, internal notes, and launch knowledge.",
-      "items": [],
-      "title": "Docs and knowledge base"
-    },
-    {
-      "description": "Deploy apps, run infrastructure, ship mobile releases, and monitor uptime.",
-      "items": [],
-      "title": "Deployment and operations"
-    },
-    {
-      "description": "Reduce launch risk before users, money, and customer data arrive.",
-      "items": [],
-      "title": "Security and legal"
-    },
-    {
-      "description": "Local tools for faster solo-operator workflows.",
-      "items": [],
-      "title": "Productivity"
-    },
-    {
-      "description": "Structured tool data lives in .",
-      "items": [],
-      "title": "Data"
-    },
-    {
-      "description": "Pull requests welcome. See .\nQuick rule: add tools only when they help a solo founder build, launch, sell, support, automate, or grow a real product.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "Suggested GitHub topics:\n, , , , , , , , , , , ,",
-      "items": [],
-      "title": "Repo topic suggestions"
-    },
-    {
-      "description": "This repository is licensed under the MIT License.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:59:09.280Z",
+    "last_updated": "2026-08-19T12:52:13.239Z",
     "original_repository": "princepal9120/awesome-solo-founder-oss",
+    "original_repository_id": 1248933347,
     "original_repository_sha": "35edde4dd935847f07164b519cc7ab8c60b45d3b",
     "enhanced_repository": "enhansome/enhansome-solo-founder-oss",
     "enhanced_repository_description": null,
