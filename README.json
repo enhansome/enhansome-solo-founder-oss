@@ -1,6 +1,162 @@
 {
   "items": [
     {
+      "description": "Pick the job, then pick one tool.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Validate demand",
+          "description": "last30days-skill, rdt-cli, twitter-cli",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1140843380,
+            "language": "Python",
+            "last_commit": "2026-08-23T18:45:07Z",
+            "owner": "mvanhorn",
+            "repo": "last30days-skill",
+            "stars": 59167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ship a SaaS MVP",
+          "description": "Open SaaS, Supabase, Coolify",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 726082384,
+            "language": "MDX",
+            "last_commit": "2026-08-06T11:28:44Z",
+            "owner": "wasp-lang",
+            "repo": "open-saas",
+            "stars": 15610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Add auth",
+          "description": "Better Auth, Auth.js, Logto",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 803014189,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:21:09Z",
+            "owner": "better-auth",
+            "repo": "better-auth",
+            "stars": 29659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Add payments",
+          "description": "Polar, Lago",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 593558875,
+            "language": "Python",
+            "last_commit": "2026-08-24T08:09:39Z",
+            "owner": "polarsource",
+            "repo": "polar",
+            "stars": 10211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Track users",
+          "description": "PostHog, Umami, Plausible",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 235901813,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:48:06Z",
+            "owner": "PostHog",
+            "repo": "posthog",
+            "stars": 38869
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Send lifecycle emails",
+          "description": "Listmonk, Dittofeed, useSend",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 193833307,
+            "language": "Go",
+            "last_commit": "2026-08-22T08:24:51Z",
+            "owner": "knadh",
+            "repo": "listmonk",
+            "stars": 23093
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Market the product",
+          "description": "Dub, Papermark, Postiz",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 529708137,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T11:32:20Z",
+            "owner": "dubinc",
+            "repo": "dub",
+            "stars": 24561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Make launch assets",
+          "description": "OpenScreen, Hyperframes, Remotion",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 1073433866,
+            "language": "TypeScript",
+            "last_commit": "2026-06-17T02:34:20Z",
+            "owner": "siddharthvaddem",
+            "repo": "openscreen",
+            "stars": 39888
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Edit raw video",
+          "description": "vex, VibeFrame, auto-editor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1176503489,
+            "language": "Python",
+            "last_commit": "2026-07-31T17:45:30Z",
+            "owner": "AKMessi",
+            "repo": "vex",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Build with agents",
+          "description": "Codex, Claude Code, XcodeBuildMCP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 965415649,
+            "language": "Rust",
+            "last_commit": "2026-08-24T14:40:09Z",
+            "owner": "openai",
+            "repo": "codex",
+            "stars": 116776
+          }
+        }
+      ],
+      "title": "Quick Start"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -14,10 +170,10 @@
                 "archived": false,
                 "id": 214587193,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T08:29:11Z",
+                "last_commit": "2026-08-24T14:43:53Z",
                 "owner": "supabase",
                 "repo": "supabase",
-                "stars": 108320
+                "stars": 108348
               }
             },
             {
@@ -29,10 +185,10 @@
                 "archived": false,
                 "id": 332880689,
                 "language": "PHP",
-                "last_commit": "2026-08-23T19:37:25Z",
+                "last_commit": "2026-08-24T14:28:12Z",
                 "owner": "coollabsio",
                 "repo": "coolify",
-                "stars": 60928
+                "stars": 60975
               }
             },
             {
@@ -44,10 +200,10 @@
                 "archived": false,
                 "id": 235901813,
                 "language": "Python",
-                "last_commit": "2026-08-23T19:57:58Z",
+                "last_commit": "2026-08-24T14:48:06Z",
                 "owner": "PostHog",
                 "repo": "posthog",
-                "stars": 38774
+                "stars": 38869
               }
             },
             {
@@ -59,10 +215,10 @@
                 "archived": false,
                 "id": 202291859,
                 "language": "Ruby",
-                "last_commit": "2026-08-23T01:12:16Z",
+                "last_commit": "2026-08-24T14:20:21Z",
                 "owner": "chatwoot",
                 "repo": "chatwoot",
-                "stars": 36098
+                "stars": 36149
               }
             },
             {
@@ -77,7 +233,7 @@
                 "last_commit": "2026-08-22T08:24:51Z",
                 "owner": "knadh",
                 "repo": "listmonk",
-                "stars": 23066
+                "stars": 23093
               }
             },
             {
@@ -92,7 +248,7 @@
                 "last_commit": "2026-08-06T11:28:44Z",
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15587
+                "stars": 15610
               }
             },
             {
@@ -104,7 +260,7 @@
                 "archived": false,
                 "id": 593558875,
                 "language": "Python",
-                "last_commit": "2026-08-22T08:47:56Z",
+                "last_commit": "2026-08-24T08:09:39Z",
                 "owner": "polarsource",
                 "repo": "polar",
                 "stars": 10211
@@ -129,7 +285,7 @@
                 "last_commit": "2026-08-18T00:55:28Z",
                 "owner": "fastlane",
                 "repo": "fastlane",
-                "stars": 42015
+                "stars": 42020
               }
             },
             {
@@ -144,7 +300,7 @@
                 "last_commit": "2026-06-17T02:34:20Z",
                 "owner": "siddharthvaddem",
                 "repo": "openscreen",
-                "stars": 39885
+                "stars": 39888
               }
             },
             {
@@ -159,7 +315,7 @@
                 "last_commit": "2026-08-12T20:00:35Z",
                 "owner": "getsentry",
                 "repo": "XcodeBuildMCP",
-                "stars": 6274
+                "stars": 6276
               }
             },
             {
@@ -208,10 +364,10 @@
                 "archived": false,
                 "id": 965415649,
                 "language": "Rust",
-                "last_commit": "2026-08-23T19:52:05Z",
+                "last_commit": "2026-08-24T14:40:09Z",
                 "owner": "openai",
                 "repo": "codex",
-                "stars": 115051
+                "stars": 116776
               }
             },
             {
@@ -223,10 +379,10 @@
                 "archived": false,
                 "id": 955620917,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T08:01:35Z",
+                "last_commit": "2026-08-24T12:32:53Z",
                 "owner": "upstash",
                 "repo": "context7",
-                "stars": 61112
+                "stars": 61148
               }
             },
             {
@@ -241,7 +397,7 @@
                 "last_commit": "2026-08-21T22:46:04Z",
                 "owner": "microsoft",
                 "repo": "playwright-mcp",
-                "stars": 36390
+                "stars": 36423
               }
             },
             {
@@ -253,10 +409,10 @@
                 "archived": false,
                 "id": 942771284,
                 "language": "Go",
-                "last_commit": "2026-08-21T19:33:51Z",
+                "last_commit": "2026-08-24T14:26:46Z",
                 "owner": "github",
                 "repo": "github-mcp-server",
-                "stars": 32449
+                "stars": 32465
               }
             },
             {
@@ -271,7 +427,7 @@
                 "last_commit": "2026-08-07T04:58:42Z",
                 "owner": "GLips",
                 "repo": "Figma-Context-MCP",
-                "stars": 15704
+                "stars": 15709
               }
             }
           ],
@@ -290,10 +446,10 @@
                 "archived": false,
                 "id": 9852918,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T18:30:13Z",
+                "last_commit": "2026-08-24T14:47:30Z",
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55045
+                "stars": 55051
               }
             },
             {
@@ -305,10 +461,10 @@
                 "archived": false,
                 "id": 664013991,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T07:36:34Z",
+                "last_commit": "2026-08-24T10:37:10Z",
                 "owner": "gitroomhq",
                 "repo": "postiz-app",
-                "stars": 35033
+                "stars": 35073
               }
             },
             {
@@ -320,10 +476,10 @@
                 "archived": false,
                 "id": 529708137,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T06:08:57Z",
+                "last_commit": "2026-08-24T11:32:20Z",
                 "owner": "dubinc",
                 "repo": "dub",
-                "stars": 24557
+                "stars": 24561
               }
             },
             {
@@ -338,7 +494,7 @@
                 "last_commit": "2026-08-22T20:22:52Z",
                 "owner": "papermark",
                 "repo": "papermark",
-                "stars": 8967
+                "stars": 8969
               }
             },
             {
@@ -350,10 +506,10 @@
                 "archived": false,
                 "id": 1232235554,
                 "language": "Python",
-                "last_commit": "2026-08-22T12:26:42Z",
+                "last_commit": "2026-08-24T14:36:43Z",
                 "owner": "openclaw-easy",
                 "repo": "ViralMint",
-                "stars": 81
+                "stars": 82
               }
             }
           ],
@@ -363,10 +519,1942 @@
         }
       ],
       "title": "Opinionated Stacks"
+    },
+    {
+      "description": "Find painful problems, communities, keywords, and trend signals.\nPlaybook: trend-to-content engine",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "last30days-skill",
+          "description": "Recent-topic research across Reddit, X, YouTube, HN, Polymarket, and web",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1140843380,
+            "language": "Python",
+            "last_commit": "2026-08-23T18:45:07Z",
+            "owner": "mvanhorn",
+            "repo": "last30days-skill",
+            "stars": 59167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lastXdays-skill",
+          "description": "Configurable time-range version of last30days research",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1149217339,
+            "language": "Python",
+            "last_commit": "2026-02-05T16:56:58Z",
+            "owner": "levineam",
+            "repo": "lastXdays-skill",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "twitter-cli",
+          "description": "X/Twitter feed, bookmarks, and timeline research in terminal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1173308786,
+            "language": "Python",
+            "last_commit": "2026-05-07T15:53:22Z",
+            "owner": "public-clis",
+            "repo": "twitter-cli",
+            "stars": 2864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rdt-cli",
+          "description": "Reddit feeds, posts, search, saves, and subscriptions in terminal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1181217016,
+            "language": "Python",
+            "last_commit": "2026-03-21T11:38:14Z",
+            "owner": "public-clis",
+            "repo": "rdt-cli",
+            "stars": 512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ig-cli",
+          "description": "Instagram trend discovery and content research",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1242527432,
+            "language": "Python",
+            "last_commit": "2026-06-16T20:05:15Z",
+            "owner": "princepal9120",
+            "repo": "ig-cli",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tkt-cli",
+          "description": "TikTok trend discovery for terminal-first research",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1241883885,
+            "language": "TypeScript",
+            "last_commit": "2026-06-17T15:31:00Z",
+            "owner": "princepal9120",
+            "repo": "tkt-cli",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "linkedin-cli",
+          "description": "Agent-friendly LinkedIn data and account CLI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1164697258,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T11:18:23Z",
+            "owner": "Linked-API",
+            "repo": "linkedin-cli",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent-Reach",
+          "description": "Multi-platform search/read CLI for agents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1165277268,
+            "language": "Python",
+            "last_commit": "2026-08-12T03:39:49Z",
+            "owner": "Panniantong",
+            "repo": "Agent-Reach",
+            "stars": 74720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MediaCrawler",
+          "description": "Crawls Xiaohongshu, Douyin, Kuaishou, Bilibili, Weibo, Tieba, Zhihu",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 651517185,
+            "language": "Python",
+            "last_commit": "2026-08-14T08:19:00Z",
+            "owner": "NanmiCoder",
+            "repo": "MediaCrawler",
+            "stars": 63622
+          }
+        }
+      ],
+      "title": "Ideation and validation"
+    },
+    {
+      "description": "Create landing pages, prototypes, and design-to-code workflows.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Webstudio",
+          "description": "Open-source Webflow alternative",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 469267771,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:21:51Z",
+            "owner": "webstudio-is",
+            "repo": "webstudio",
+            "stars": 8860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plasmic",
+          "description": "Visual builder for React apps, sites, and content",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 335402819,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:36:10Z",
+            "owner": "plasmicapp",
+            "repo": "plasmic",
+            "stars": 6969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GrapesJS",
+          "description": "Open-source web builder framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 50146229,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T13:16:44Z",
+            "owner": "GrapesJS",
+            "repo": "grapesjs",
+            "stars": 26161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Figma Context MCP",
+          "description": "Figma layout context for AI coding agents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 931892749,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T04:58:42Z",
+            "owner": "GLips",
+            "repo": "Figma-Context-MCP",
+            "stars": 15709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyperframes",
+          "description": "HTML-to-video motion graphics for launch explainers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1177402105,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:58:32Z",
+            "owner": "heygen-com",
+            "repo": "hyperframes",
+            "stars": 42426
+          }
+        }
+      ],
+      "title": "Design and UX"
+    },
+    {
+      "description": "Start with a product-shaped repo instead of a blank folder.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open SaaS",
+          "description": "SaaS starter with auth, jobs, payments, landing page",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 726082384,
+            "language": "MDX",
+            "last_commit": "2026-08-06T11:28:44Z",
+            "owner": "wasp-lang",
+            "repo": "open-saas",
+            "stars": 15610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SaaS Boilerplate",
+          "description": "Next.js SaaS starter",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 779411904,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T00:07:04Z",
+            "owner": "ixartz",
+            "repo": "SaaS-Boilerplate",
+            "stars": 7381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XcodeBuildMCP iOS Template",
+          "description": "iOS starter template for agent-assisted builds",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 995391639,
+            "language": "Shell",
+            "last_commit": "2025-06-13T14:03:36Z",
+            "owner": "getsentry",
+            "repo": "XcodeBuildMCP-iOS-Template",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "Starter kits"
+    },
+    {
+      "description": "Build the first useful product slice.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Payload",
+          "description": "Full-stack Next.js backend, admin panel, and CMS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 327089870,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:43:17Z",
+            "owner": "payloadcms",
+            "repo": "payload",
+            "stars": 44373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JeecgBoot",
+          "description": "AI low-code app builder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 159152904,
+            "language": "Java",
+            "last_commit": "2026-08-24T09:48:11Z",
+            "owner": "jeecgboot",
+            "repo": "JeecgBoot",
+            "stars": 47456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Budibase",
+          "description": "Internal apps, automations, and operations tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 190729906,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:44:12Z",
+            "owner": "Budibase",
+            "repo": "budibase",
+            "stars": 28243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ToolJet",
+          "description": "App builder and AI workflow foundation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 352933140,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T14:08:10Z",
+            "owner": "ToolJet",
+            "repo": "ToolJet",
+            "stars": 40746
+          }
+        }
+      ],
+      "title": "MVP development"
+    },
+    {
+      "description": "Add accounts, sessions, teams, and SaaS-ready identity.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Better Auth",
+          "description": "TypeScript authentication framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 803014189,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:21:09Z",
+            "owner": "better-auth",
+            "repo": "better-auth",
+            "stars": 29659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auth.js",
+          "description": "Web authentication library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 119162419,
+            "language": "TypeScript",
+            "last_commit": "2026-07-22T19:42:19Z",
+            "owner": "nextauthjs",
+            "repo": "next-auth",
+            "stars": 28341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Logto",
+          "description": "Auth and authorization infrastructure for SaaS and AI apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378310716,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:00:24Z",
+            "owner": "logto-io",
+            "repo": "logto",
+            "stars": 14455
+          }
+        }
+      ],
+      "title": "Auth and identity"
+    },
+    {
+      "description": "Store users, content, files, events, and product data.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Supabase",
+          "description": "Postgres, auth, storage, realtime, edge functions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 214587193,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:43:53Z",
+            "owner": "supabase",
+            "repo": "supabase",
+            "stars": 108348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PocketBase",
+          "description": "SQLite-backed app backend in one binary",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 510607652,
+            "language": "Go",
+            "last_commit": "2026-08-24T14:27:19Z",
+            "owner": "pocketbase",
+            "repo": "pocketbase",
+            "stars": 60790
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite",
+          "description": "Backend APIs for auth, database, storage, functions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 180190854,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:39:19Z",
+            "owner": "appwrite",
+            "repo": "appwrite",
+            "stars": 57114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Directus",
+          "description": "Headless CMS and data platform over SQL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7122594,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T11:17:22Z",
+            "owner": "directus",
+            "repo": "directus",
+            "stars": 37493
+          }
+        }
+      ],
+      "title": "Database and backend"
+    },
+    {
+      "description": "Use agents to code, test, browse, inspect design, and run product workflows.\nPlaybook: agent-assisted product build sprint",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Codex",
+          "description": "Terminal coding agent",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 965415649,
+            "language": "Rust",
+            "last_commit": "2026-08-24T14:40:09Z",
+            "owner": "openai",
+            "repo": "codex",
+            "stars": 116776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Claude Code",
+          "description": "Agentic coding tool in terminal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 937253475,
+            "language": "Python",
+            "last_commit": "2026-08-23T00:52:16Z",
+            "owner": "anthropics",
+            "repo": "claude-code",
+            "stars": 142840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gemini CLI",
+          "description": "Open-source Gemini coding and research agent",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 968197216,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T00:59:21Z",
+            "owner": "google-gemini",
+            "repo": "gemini-cli",
+            "stars": 106661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenCode",
+          "description": "Open-source multi-model coding agent",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 975734319,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:45:23Z",
+            "owner": "anomalyco",
+            "repo": "opencode",
+            "stars": 200903
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qwen Code",
+          "description": "Open-source terminal coding agent",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1008713177,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:44:15Z",
+            "owner": "QwenLM",
+            "repo": "qwen-code",
+            "stars": 27334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XcodeBuildMCP",
+          "description": "iOS/macOS build, test, simulator, and logs for agents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 945551361,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:00:35Z",
+            "owner": "getsentry",
+            "repo": "XcodeBuildMCP",
+            "stars": 6276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Playwright MCP",
+          "description": "Browser automation and QA for agents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 952688112,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T22:46:04Z",
+            "owner": "microsoft",
+            "repo": "playwright-mcp",
+            "stars": 36423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub MCP Server",
+          "description": "GitHub issues, PRs, repos, and code workflow",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 942771284,
+            "language": "Go",
+            "last_commit": "2026-08-24T14:26:46Z",
+            "owner": "github",
+            "repo": "github-mcp-server",
+            "stars": 32465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Context7",
+          "description": "Fresh docs for LLMs and code editors",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 955620917,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:32:53Z",
+            "owner": "upstash",
+            "repo": "context7",
+            "stars": 61148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Servers",
+          "description": "Model Context Protocol server collection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 890668799,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T01:12:36Z",
+            "owner": "modelcontextprotocol",
+            "repo": "servers",
+            "stars": 89830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Registry",
+          "description": "Community registry for MCP servers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 927890076,
+            "language": "Go",
+            "last_commit": "2026-08-22T22:35:31Z",
+            "owner": "modelcontextprotocol",
+            "repo": "registry",
+            "stars": 7187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-mcp-servers",
+          "description": "Curated MCP server list",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 896335270,
+            "language": null,
+            "last_commit": "2026-08-17T21:28:42Z",
+            "owner": "punkpeye",
+            "repo": "awesome-mcp-servers",
+            "stars": 92740
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI-TARS Desktop",
+          "description": "Open-source multimodal desktop agent stack",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 918932603,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T02:48:59Z",
+            "owner": "bytedance",
+            "repo": "UI-TARS-desktop",
+            "stars": 38702
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CowAgent",
+          "description": "AI assistant and agent harness",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 522158088,
+            "language": "Python",
+            "last_commit": "2026-08-23T09:56:41Z",
+            "owner": "zhayujie",
+            "repo": "CowAgent",
+            "stars": 46652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeWhale",
+          "description": "DeepSeek-first agentic coding terminal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1137711311,
+            "language": "Rust",
+            "last_commit": "2026-08-24T14:34:33Z",
+            "owner": "Hmbown",
+            "repo": "CodeWhale",
+            "stars": 40836
+          }
+        }
+      ],
+      "title": "AI agents and MCP"
+    },
+    {
+      "description": "Charge customers, meter usage, and handle subscriptions.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Polar",
+          "description": "Developer-product payments, subscriptions, digital products",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 593558875,
+            "language": "Python",
+            "last_commit": "2026-08-24T08:09:39Z",
+            "owner": "polarsource",
+            "repo": "polar",
+            "stars": 10211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lago",
+          "description": "Usage-based billing and metering",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 464415161,
+            "language": "Go",
+            "last_commit": "2026-08-24T14:47:03Z",
+            "owner": "getlago",
+            "repo": "lago",
+            "stars": 10382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kill Bill",
+          "description": "Subscription billing platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6325420,
+            "language": "Java",
+            "last_commit": "2026-08-22T04:10:04Z",
+            "owner": "killbill",
+            "repo": "killbill",
+            "stars": 5699
+          }
+        }
+      ],
+      "title": "Billing and monetization"
+    },
+    {
+      "description": "Learn what users do and what they need.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PostHog",
+          "description": "Product analytics, replay, flags, surveys",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 235901813,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:48:06Z",
+            "owner": "PostHog",
+            "repo": "posthog",
+            "stars": 38869
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plausible",
+          "description": "Privacy-friendly web analytics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 160427405,
+            "language": "Elixir",
+            "last_commit": "2026-08-24T14:02:53Z",
+            "owner": "plausible",
+            "repo": "analytics",
+            "stars": 28731
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Umami",
+          "description": "Simple self-hosted web analytics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 280363952,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T18:26:22Z",
+            "owner": "umami-software",
+            "repo": "umami",
+            "stars": 38342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GrowthBook",
+          "description": "Feature flags, experiments, product analytics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 365373172,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:37:16Z",
+            "owner": "growthbook",
+            "repo": "growthbook",
+            "stars": 8155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Formbricks",
+          "description": "User research and surveys",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 500289888,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:38:47Z",
+            "owner": "formbricks",
+            "repo": "formbricks",
+            "stars": 12809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fider",
+          "description": "Feature requests and feedback voting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 79280946,
+            "language": "Go",
+            "last_commit": "2026-08-09T11:06:12Z",
+            "owner": "getfider",
+            "repo": "fider",
+            "stars": 4482
+          }
+        }
+      ],
+      "title": "Analytics and feedback"
+    },
+    {
+      "description": "Send newsletters, onboarding, transactional mail, and lifecycle nudges.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Listmonk",
+          "description": "Newsletter and mailing lists",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 193833307,
+            "language": "Go",
+            "last_commit": "2026-08-22T08:24:51Z",
+            "owner": "knadh",
+            "repo": "listmonk",
+            "stars": 23093
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mautic",
+          "description": "Marketing automation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12204147,
+            "language": "PHP",
+            "last_commit": "2026-08-24T14:18:50Z",
+            "owner": "mautic",
+            "repo": "mautic",
+            "stars": 10384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dittofeed",
+          "description": "Customer engagement across email, SMS, push, WhatsApp, Slack",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 543838169,
+            "language": "TypeScript",
+            "last_commit": "2026-03-28T17:40:17Z",
+            "owner": "dittofeed",
+            "repo": "dittofeed",
+            "stars": 2912
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "useSend",
+          "description": "Open-source transactional email platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 772283421,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T16:01:33Z",
+            "owner": "usesend",
+            "repo": "useSend",
+            "stars": 4635
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ghost",
+          "description": "Publishing, newsletters, memberships, subscriptions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9852918,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T14:47:30Z",
+            "owner": "TryGhost",
+            "repo": "Ghost",
+            "stars": 55051
+          }
+        }
+      ],
+      "title": "Email and lifecycle messaging"
+    },
+    {
+      "description": "Talk to users, close deals, and build community loops.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Twenty",
+          "description": "Modern CRM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 572984571,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:46:59Z",
+            "owner": "twentyhq",
+            "repo": "twenty",
+            "stars": 55452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EspoCRM",
+          "description": "CRM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24459441,
+            "language": "PHP",
+            "last_commit": "2026-08-20T16:19:15Z",
+            "owner": "espocrm",
+            "repo": "espocrm",
+            "stars": 3287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chatwoot",
+          "description": "Support inbox and live chat",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 202291859,
+            "language": "Ruby",
+            "last_commit": "2026-08-24T14:20:21Z",
+            "owner": "chatwoot",
+            "repo": "chatwoot",
+            "stars": 36149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappe Helpdesk",
+          "description": "Helpdesk",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 419635982,
+            "language": "Vue",
+            "last_commit": "2026-08-20T11:17:30Z",
+            "owner": "frappe",
+            "repo": "helpdesk",
+            "stars": 3334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Typebot",
+          "description": "Chatbot and funnel builder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 429736266,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:00:12Z",
+            "owner": "baptisteArno",
+            "repo": "typebot.io",
+            "stars": 10282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cal.com",
+          "description": "Scheduling for demos, sales calls, onboarding",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 350360184,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T17:13:42Z",
+            "owner": "calcom",
+            "repo": "cal.diy",
+            "stars": 47902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discourse",
+          "description": "Community forum",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7569578,
+            "language": "Ruby",
+            "last_commit": "2026-08-24T14:37:32Z",
+            "owner": "discourse",
+            "repo": "discourse",
+            "stars": 47718
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Forem",
+          "description": "Community publishing platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73648678,
+            "language": "Ruby",
+            "last_commit": "2026-08-24T13:38:23Z",
+            "owner": "forem",
+            "repo": "forem",
+            "stars": 22770
+          }
+        }
+      ],
+      "title": "Support, CRM, and community"
+    },
+    {
+      "description": "Create demand, track campaigns, publish content, and convert leads.\n| TinyTools | OG image generator, SEO meta tag generator, favicon generator, AI background remover, color palette, AI robots.txt generator — all browser-based, no backend |",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dub",
+          "description": "Link attribution, short links, QR codes, campaign tracking",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 529708137,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T11:32:20Z",
+            "owner": "dubinc",
+            "repo": "dub",
+            "stars": 24561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Papermark",
+          "description": "DocSend alternative for pitch decks, proposals, document analytics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 646985602,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T20:22:52Z",
+            "owner": "papermark",
+            "repo": "papermark",
+            "stars": 8969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Postiz",
+          "description": "Agentic social media scheduling",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 664013991,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T10:37:10Z",
+            "owner": "gitroomhq",
+            "repo": "postiz-app",
+            "stars": 35073
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mixpost",
+          "description": "Self-hosted social media management",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 516725401,
+            "language": "Vue",
+            "last_commit": "2026-03-16T10:06:38Z",
+            "owner": "inovector",
+            "repo": "mixpost",
+            "stars": 3539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenPost",
+          "description": "Self-hosted social publishing with API, CLI, and MCP access",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1187916096,
+            "language": "Go",
+            "last_commit": "2026-08-24T12:25:07Z",
+            "owner": "getopenpost",
+            "repo": "openpost",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TryPost",
+          "description": "Social scheduling and content calendar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1136454470,
+            "language": "PHP",
+            "last_commit": "2026-08-23T22:56:05Z",
+            "owner": "trypostit",
+            "repo": "trypost",
+            "stars": 542
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LateWiz",
+          "description": "Multi-platform social scheduler",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1145317538,
+            "language": "TypeScript",
+            "last_commit": "2026-07-23T14:58:21Z",
+            "owner": "zernio-dev",
+            "repo": "latewiz",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LinkStack",
+          "description": "Self-hosted link-in-bio/profile page",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 459095253,
+            "language": "PHP",
+            "last_commit": "2026-07-21T12:40:17Z",
+            "owner": "LinkStackOrg",
+            "repo": "LinkStack",
+            "stars": 3822
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "seotoolsuite",
+          "description": "SEO tooling",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1109923102,
+            "language": "TypeScript",
+            "last_commit": "2026-07-30T11:16:54Z",
+            "owner": "nitishkgupta",
+            "repo": "seotoolsuite",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RespectASO",
+          "description": "App Store Optimization keyword research",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1165119424,
+            "language": "Python",
+            "last_commit": "2026-08-24T09:52:54Z",
+            "owner": "respectlytics",
+            "repo": "respectaso",
+            "stars": 476
+          }
+        }
+      ],
+      "title": "Marketing and growth"
+    },
+    {
+      "description": "Create launch demos, shorts, UGC, raw-video edits, and programmatic video assets.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ViralMint",
+          "description": "Trend scouting, competitor analysis, AI video generation, auto-publishing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1232235554,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:36:43Z",
+            "owner": "openclaw-easy",
+            "repo": "ViralMint",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenShorts",
+          "description": "AI UGC video platform and clip generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1119542383,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:28:35Z",
+            "owner": "mutonby",
+            "repo": "openshorts",
+            "stars": 3401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MoneyPrinterTurbo",
+          "description": "One-click AI short-video generation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 770153867,
+            "language": "Python",
+            "last_commit": "2026-08-24T05:58:14Z",
+            "owner": "harry0703",
+            "repo": "MoneyPrinterTurbo",
+            "stars": 115774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ai-trend-publish",
+          "description": "Trend scraping, AI content generation, scheduled publishing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 916084587,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T14:17:45Z",
+            "owner": "liyown",
+            "repo": "ai-trend-publish",
+            "stars": 3153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "short-video-maker",
+          "description": "MCP/REST short-video generation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 966014080,
+            "language": "TypeScript",
+            "last_commit": "2025-06-21T11:17:09Z",
+            "owner": "gyoridavid",
+            "repo": "short-video-maker",
+            "stars": 1304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClippedAI",
+          "description": "Open-source OpusClip-style shorts generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1010510713,
+            "language": "Python",
+            "last_commit": "2026-03-07T00:32:14Z",
+            "owner": "Shaarav4795",
+            "repo": "ClippedAI",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ViralCutter",
+          "description": "Cut long YouTube videos into short clips",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 862629128,
+            "language": "Python",
+            "last_commit": "2026-02-22T20:24:27Z",
+            "owner": "RafaelGodoyEbert",
+            "repo": "ViralCutter",
+            "stars": 372
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vex",
+          "description": "Terminal AI video editing agent",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1176503489,
+            "language": "Python",
+            "last_commit": "2026-07-31T17:45:30Z",
+            "owner": "AKMessi",
+            "repo": "vex",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VibeFrame",
+          "description": "CLI-first, MCP-ready AI-native video editor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1147087099,
+            "language": "TypeScript",
+            "last_commit": "2026-07-26T12:57:30Z",
+            "owner": "vericontext",
+            "repo": "vibeframe",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenMontage",
+          "description": "Agentic video production system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1195360525,
+            "language": "Python",
+            "last_commit": "2026-08-22T18:22:24Z",
+            "owner": "calesthio",
+            "repo": "OpenMontage",
+            "stars": 50006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenReelio",
+          "description": "Prompt-driven AI video editor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1131874032,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T09:58:09Z",
+            "owner": "openreelio",
+            "repo": "openreelio",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "auto-editor",
+          "description": "Auto-cuts silence and dead space from raw footage",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 260117248,
+            "language": "Nim",
+            "last_commit": "2026-08-20T19:22:01Z",
+            "owner": "WyattBlue",
+            "repo": "auto-editor",
+            "stars": 5056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LosslessCut",
+          "description": "Lossless video/audio trimming and splitting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 72343657,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T09:03:12Z",
+            "owner": "mifi",
+            "repo": "lossless-cut",
+            "stars": 43166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenScreen",
+          "description": "Product demo videos",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 1073433866,
+            "language": "TypeScript",
+            "last_commit": "2026-06-17T02:34:20Z",
+            "owner": "siddharthvaddem",
+            "repo": "openscreen",
+            "stars": 39888
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remotion",
+          "description": "Programmatic video generation with React",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 274495425,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:34:58Z",
+            "owner": "remotion-dev",
+            "repo": "remotion",
+            "stars": 57243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MoviePy",
+          "description": "Python video editing library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12052630,
+            "language": "Python",
+            "last_commit": "2026-08-11T16:30:06Z",
+            "owner": "Zulko",
+            "repo": "moviepy",
+            "stars": 14863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenTimelineIO",
+          "description": "Open timeline interchange API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 66404312,
+            "language": "C++",
+            "last_commit": "2026-08-07T21:08:35Z",
+            "owner": "AcademySoftwareFoundation",
+            "repo": "OpenTimelineIO",
+            "stars": 1962
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kdenlive",
+          "description": "Full open-source video editor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 42723268,
+            "language": "C++",
+            "last_commit": "2026-08-24T03:22:34Z",
+            "owner": "KDE",
+            "repo": "kdenlive",
+            "stars": 5512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shotcut",
+          "description": "Cross-platform open-source video editor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4118776,
+            "language": "C++",
+            "last_commit": "2026-08-22T16:43:49Z",
+            "owner": "mltframework",
+            "repo": "shotcut",
+            "stars": 14981
+          }
+        }
+      ],
+      "title": "Content and video"
+    },
+    {
+      "description": "Write docs, help centers, internal notes, and launch knowledge.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Docusaurus",
+          "description": "Documentation website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 94911145,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T20:09:53Z",
+            "owner": "facebook",
+            "repo": "docusaurus",
+            "stars": 66068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docmost",
+          "description": "Collaborative wiki and docs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 674295265,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T02:14:04Z",
+            "owner": "docmost",
+            "repo": "docmost",
+            "stars": 21454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AppFlowy",
+          "description": "Open-source Notion alternative",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 377496562,
+            "language": "Dart",
+            "last_commit": "2026-08-11T13:01:19Z",
+            "owner": "AppFlowy-IO",
+            "repo": "AppFlowy",
+            "stars": 75908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Logseq",
+          "description": "Local-first knowledge management",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 266231149,
+            "language": "Clojure",
+            "last_commit": "2026-08-24T14:41:43Z",
+            "owner": "logseq",
+            "repo": "logseq",
+            "stars": 44591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Joplin",
+          "description": "Privacy-focused notes with sync",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 79162682,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:25:58Z",
+            "owner": "laurent22",
+            "repo": "joplin",
+            "stars": 56081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MinerU",
+          "description": "Converts PDFs and Office docs into LLM-ready markdown/JSON",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 765083837,
+            "language": "Python",
+            "last_commit": "2026-08-24T06:49:36Z",
+            "owner": "opendatalab",
+            "repo": "MinerU",
+            "stars": 78385
+          }
+        }
+      ],
+      "title": "Docs and knowledge base"
+    },
+    {
+      "description": "Deploy apps, run infrastructure, ship mobile releases, and monitor uptime.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Coolify",
+          "description": "Self-hosted deployment platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 332880689,
+            "language": "PHP",
+            "last_commit": "2026-08-24T14:28:12Z",
+            "owner": "coollabsio",
+            "repo": "coolify",
+            "stars": 60975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dokploy",
+          "description": "Open-source Vercel/Netlify/Heroku alternative",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 788847937,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T15:14:51Z",
+            "owner": "Dokploy",
+            "repo": "dokploy",
+            "stars": 36834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CapRover",
+          "description": "Docker-powered app deployment platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 108221729,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T19:42:51Z",
+            "owner": "caprover",
+            "repo": "caprover",
+            "stars": 15139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dokku",
+          "description": "Lightweight Heroku-style PaaS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10567197,
+            "language": "Shell",
+            "last_commit": "2026-08-24T13:56:29Z",
+            "owner": "dokku",
+            "repo": "dokku",
+            "stars": 32110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenStatus",
+          "description": "Uptime monitoring and status pages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 655783613,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T09:05:44Z",
+            "owner": "openstatusHQ",
+            "repo": "openstatus",
+            "stars": 9011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fastlane",
+          "description": "iOS/Android beta deploys, screenshots, metadata, releases",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27442967,
+            "language": "Ruby",
+            "last_commit": "2026-08-18T00:55:28Z",
+            "owner": "fastlane",
+            "repo": "fastlane",
+            "stars": 42020
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "video-preview-appstore",
+          "description": "App Store preview-compatible MP4 conversion",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1227105163,
+            "language": "Swift",
+            "last_commit": "2026-05-12T05:56:49Z",
+            "owner": "mdo91",
+            "repo": "video-preview-appstore",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "App Store Screenshots Generator",
+          "description": "App Store screenshot generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1234723345,
+            "language": "TypeScript",
+            "last_commit": "2026-05-10T20:32:07Z",
+            "owner": "jawwadfirdousi",
+            "repo": "appstore-screenshots-generator",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appshot",
+          "description": "CLI for App Store screenshots",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 1040344132,
+            "language": "TypeScript",
+            "last_commit": "2026-07-26T02:32:00Z",
+            "owner": "chrisvanbuskirk",
+            "repo": "appshot",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Storeshots",
+          "description": "App Store and Google Play screenshot generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207881907,
+            "language": "Vue",
+            "last_commit": "2026-08-07T12:06:11Z",
+            "owner": "eralpozcan",
+            "repo": "storeshots",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Deployment and operations"
+    },
+    {
+      "description": "Reduce launch risk before users, money, and customer data arrive.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bitwarden Clients",
+          "description": "Password manager clients and CLI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53538899,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:48:15Z",
+            "owner": "bitwarden",
+            "repo": "clients",
+            "stars": 13655
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trail of Bits skills",
+          "description": "Claude Code security research and audit skills",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1134447175,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:06:59Z",
+            "owner": "trailofbits",
+            "repo": "skills",
+            "stars": 6825
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Documenso",
+          "description": "Open-source DocuSign alternative",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 613010835,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:15:32Z",
+            "owner": "documenso",
+            "repo": "documenso",
+            "stars": 14716
+          }
+        }
+      ],
+      "title": "Security and legal"
+    },
+    {
+      "description": "Local tools for faster solo-operator workflows.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Maccy",
+          "description": "Lightweight macOS clipboard manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 119637215,
+            "language": "Swift",
+            "last_commit": "2026-08-13T00:05:03Z",
+            "owner": "p0deje",
+            "repo": "Maccy",
+            "stars": 21316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rectangle",
+          "description": "macOS window management",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 193162629,
+            "language": "Swift",
+            "last_commit": "2026-08-21T10:45:52Z",
+            "owner": "rxhanson",
+            "repo": "Rectangle",
+            "stars": 29731
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Espanso",
+          "description": "Cross-platform text expander",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 205326947,
+            "language": "Rust",
+            "last_commit": "2026-08-24T12:40:34Z",
+            "owner": "espanso",
+            "repo": "espanso",
+            "stars": 14346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ActivityWatch",
+          "description": "Privacy-first automated time tracker",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 57224308,
+            "language": "Python",
+            "last_commit": "2026-08-23T10:00:01Z",
+            "owner": "ActivityWatch",
+            "repo": "activitywatch",
+            "stars": 18691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ice",
+          "description": "macOS menu bar manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 674832198,
+            "language": "Swift",
+            "last_commit": "2025-09-20T20:28:17Z",
+            "owner": "jordanbaird",
+            "repo": "Ice",
+            "stars": 29373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LocalSend",
+          "description": "Local cross-platform file sharing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 578822531,
+            "language": "Dart",
+            "last_commit": "2026-08-24T00:11:36Z",
+            "owner": "localsend",
+            "repo": "localsend",
+            "stars": 89226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Syncthing",
+          "description": "Continuous private file sync",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14712850,
+            "language": "Go",
+            "last_commit": "2026-08-24T04:29:41Z",
+            "owner": "syncthing",
+            "repo": "syncthing",
+            "stars": 87940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zoxide",
+          "description": "Smarter terminal directory jumping",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 245166720,
+            "language": "Rust",
+            "last_commit": "2026-08-24T02:58:01Z",
+            "owner": "ajeetdsouza",
+            "repo": "zoxide",
+            "stars": 38806
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "devrunner",
+          "description": "Rust-powered terminal task runner with zero configuration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1117665525,
+            "language": "Rust",
+            "last_commit": "2026-06-21T20:12:14Z",
+            "owner": "princepal9120",
+            "repo": "devrunner",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Productivity"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:58:05.850Z",
+    "last_updated": "2026-08-24T14:48:40.740Z",
     "original_repository": "princepal9120/awesome-solo-founder-oss",
     "original_repository_id": 1248933347,
     "original_repository_sha": "35edde4dd935847f07164b519cc7ab8c60b45d3b",
