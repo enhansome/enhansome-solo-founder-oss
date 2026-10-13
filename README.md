@@ -32,52 +32,52 @@ Pick the job, then pick one tool.
 
 | Founder job           | Start here                                                                                                                                                                                                                                                                                                                     |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Validate demand       | [last30days-skill](https://github.com/mvanhorn/last30days-skill) ⭐ 63,976 \| 🐛 25 \| 🌐 Python \| 📅 2026-10-11, [rdt-cli](https://github.com/public-clis/rdt-cli) ⭐ 539 \| 🐛 16 \| 🌐 Python \| 📅 2026-03-21, [twitter-cli](https://github.com/public-clis/twitter-cli) ⭐ 2,979 \| 🐛 46 \| 🌐 Python \| 📅 2026-05-07     |
-| Ship a SaaS MVP       | [Open SaaS](https://github.com/wasp-lang/open-saas) ⭐ 16,084 \| 🐛 110 \| 🌐 MDX \| 📅 2026-10-09, [Supabase](https://github.com/supabase/supabase) ⭐ 111,367 \| 🐛 1,154 \| 🌐 TypeScript \| 📅 2026-10-11, [Coolify](https://github.com/coollabsio/coolify) ⭐ 62,869 \| 🐛 723 \| 🌐 PHP \| 📅 2026-10-11                    |
-| Add auth              | [Better Auth](https://github.com/better-auth/better-auth) ⭐ 30,263 \| 🐛 854 \| 🌐 TypeScript \| 📅 2026-10-11, [Auth.js](https://github.com/nextauthjs/next-auth) ⭐ 28,367 \| 🐛 603 \| 🌐 TypeScript \| 📅 2026-07-22, [Logto](https://github.com/logto-io/logto) ⭐ 14,667 \| 🐛 169 \| 🌐 TypeScript \| 📅 2026-10-11       |
-| Add payments          | [Polar](https://github.com/polarsource/polar) ⭐ 10,357 \| 🐛 124 \| 🌐 Python \| 📅 2026-10-11, [Lago](https://github.com/getlago/lago) ⭐ 10,672 \| 🐛 30 \| 🌐 Go \| 📅 2026-10-09                                                                                                                                            |
-| Track users           | [PostHog](https://github.com/PostHog/posthog) ⭐ 40,221 \| 🐛 5,608 \| 🌐 Python \| 📅 2026-10-11, [Umami](https://github.com/umami-software/umami) ⭐ 39,310 \| 🐛 122 \| 🌐 TypeScript \| 📅 2026-10-11, [Plausible](https://github.com/plausible/analytics) ⭐ 29,366 \| 🐛 65 \| 🌐 Elixir \| 📅 2026-10-09                   |
-| Send lifecycle emails | [Listmonk](https://github.com/knadh/listmonk) ⭐ 23,754 \| 🐛 105 \| 🌐 Go \| 📅 2026-10-11, [Dittofeed](https://github.com/dittofeed/dittofeed) ⭐ 3,001 \| 🐛 62 \| 🌐 TypeScript \| 📅 2026-10-04, [useSend](https://github.com/usesend/useSend) ⭐ 4,717 \| 🐛 42 \| 🌐 TypeScript \| 📅 2026-09-08                           |
-| Market the product    | [Dub](https://github.com/dubinc/dub) ⭐ 24,874 \| 🐛 106 \| 🌐 TypeScript \| 📅 2026-10-10, [Papermark](https://github.com/papermark/papermark) ⭐ 9,244 \| 🐛 241 \| 🌐 TypeScript \| 📅 2026-08-28, [Postiz](https://github.com/gitroomhq/postiz-app) ⭐ 37,041 \| 🐛 232 \| 🌐 TypeScript \| 📅 2026-10-11                     |
-| Make launch assets    | [OpenScreen](https://github.com/siddharthvaddem/openscreen) ⚠️ Archived, [Hyperframes](https://github.com/heygen-com/hyperframes) ⭐ 60,936 \| 🐛 257 \| 🌐 TypeScript \| 📅 2026-10-11, [Remotion](https://github.com/remotion-dev/remotion) ⭐ 63,281 \| 🐛 190 \| 🌐 TypeScript \| 📅 2026-10-11                              |
-| Edit raw video        | [vex](https://github.com/AKMessi/vex) ⭐ 88 \| 🐛 5 \| 🌐 Python \| 📅 2026-10-08, [VibeFrame](https://github.com/vericontext/vibeframe) ⭐ 175 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-10-05, [auto-editor](https://github.com/WyattBlue/auto-editor) ⭐ 5,482 \| 🐛 0 \| 🌐 Nim \| 📅 2026-10-10                                    |
-| Build with agents     | [Codex](https://github.com/openai/codex) ⭐ 128,670 \| 🐛 22,297 \| 🌐 Rust \| 📅 2026-10-11, [Claude Code](https://github.com/anthropics/claude-code) ⭐ 150,227 \| 🐛 14,697 \| 🌐 TypeScript \| 📅 2026-10-11, [XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) ⭐ 6,475 \| 🐛 25 \| 🌐 TypeScript \| 📅 2026-10-09 |
+| Validate demand       | [last30days-skill](https://github.com/mvanhorn/last30days-skill) ⭐ 64,085 \| 🐛 31 \| 🌐 Python \| 📅 2026-10-11, [rdt-cli](https://github.com/public-clis/rdt-cli) ⭐ 539 \| 🐛 16 \| 🌐 Python \| 📅 2026-03-21, [twitter-cli](https://github.com/public-clis/twitter-cli) ⭐ 2,982 \| 🐛 46 \| 🌐 Python \| 📅 2026-05-07     |
+| Ship a SaaS MVP       | [Open SaaS](https://github.com/wasp-lang/open-saas) ⭐ 16,091 \| 🐛 111 \| 🌐 MDX \| 📅 2026-10-09, [Supabase](https://github.com/supabase/supabase) ⭐ 111,436 \| 🐛 1,149 \| 🌐 TypeScript \| 📅 2026-10-13, [Coolify](https://github.com/coollabsio/coolify) ⭐ 62,907 \| 🐛 721 \| 🌐 PHP \| 📅 2026-10-12                    |
+| Add auth              | [Better Auth](https://github.com/better-auth/better-auth) ⭐ 30,274 \| 🐛 864 \| 🌐 TypeScript \| 📅 2026-10-13, [Auth.js](https://github.com/nextauthjs/next-auth) ⭐ 28,366 \| 🐛 603 \| 🌐 TypeScript \| 📅 2026-07-22, [Logto](https://github.com/logto-io/logto) ⭐ 14,675 \| 🐛 174 \| 🌐 TypeScript \| 📅 2026-10-13       |
+| Add payments          | [Polar](https://github.com/polarsource/polar) ⭐ 10,362 \| 🐛 122 \| 🌐 Python \| 📅 2026-10-12, [Lago](https://github.com/getlago/lago) ⭐ 10,674 \| 🐛 30 \| 🌐 Go \| 📅 2026-10-09                                                                                                                                            |
+| Track users           | [PostHog](https://github.com/PostHog/posthog) ⭐ 40,247 \| 🐛 5,563 \| 🌐 Python \| 📅 2026-10-13, [Umami](https://github.com/umami-software/umami) ⭐ 39,337 \| 🐛 122 \| 🌐 TypeScript \| 📅 2026-10-13, [Plausible](https://github.com/plausible/analytics) ⭐ 29,381 \| 🐛 69 \| 🌐 Elixir \| 📅 2026-10-12                   |
+| Send lifecycle emails | [Listmonk](https://github.com/knadh/listmonk) ⭐ 23,768 \| 🐛 108 \| 🌐 Go \| 📅 2026-10-12, [Dittofeed](https://github.com/dittofeed/dittofeed) ⭐ 3,002 \| 🐛 63 \| 🌐 TypeScript \| 📅 2026-10-12, [useSend](https://github.com/usesend/useSend) ⭐ 4,726 \| 🐛 42 \| 🌐 TypeScript \| 📅 2026-09-08                           |
+| Market the product    | [Dub](https://github.com/dubinc/dub) ⭐ 24,877 \| 🐛 112 \| 🌐 TypeScript \| 📅 2026-10-12, [Papermark](https://github.com/papermark/papermark) ⭐ 9,245 \| 🐛 241 \| 🌐 TypeScript \| 📅 2026-08-28, [Postiz](https://github.com/gitroomhq/postiz-app) ⭐ 37,096 \| 🐛 235 \| 🌐 TypeScript \| 📅 2026-10-13                     |
+| Make launch assets    | [OpenScreen](https://github.com/siddharthvaddem/openscreen) ⚠️ Archived, [Hyperframes](https://github.com/heygen-com/hyperframes) ⭐ 61,849 \| 🐛 259 \| 🌐 TypeScript \| 📅 2026-10-13, [Remotion](https://github.com/remotion-dev/remotion) ⭐ 63,618 \| 🐛 178 \| 🌐 TypeScript \| 📅 2026-10-12                              |
+| Edit raw video        | [vex](https://github.com/AKMessi/vex) ⭐ 88 \| 🐛 5 \| 🌐 Python \| 📅 2026-10-12, [VibeFrame](https://github.com/vericontext/vibeframe) ⭐ 175 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-10-05, [auto-editor](https://github.com/WyattBlue/auto-editor) ⭐ 5,491 \| 🐛 0 \| 🌐 Nim \| 📅 2026-10-12                                    |
+| Build with agents     | [Codex](https://github.com/openai/codex) ⭐ 128,847 \| 🐛 22,179 \| 🌐 Rust \| 📅 2026-10-12, [Claude Code](https://github.com/anthropics/claude-code) ⭐ 150,449 \| 🐛 14,710 \| 🌐 TypeScript \| 📅 2026-10-13, [XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) ⭐ 6,476 \| 🐛 25 \| 🌐 TypeScript \| 📅 2026-10-09 |
 
 ## Opinionated Stacks
 
 ### Lean SaaS stack
 
-* Backend/database/auth: [Supabase](https://github.com/supabase/supabase) ⭐ 111,367 | 🐛 1,154 | 🌐 TypeScript | 📅 2026-10-11
-* Deploy: [Coolify](https://github.com/coollabsio/coolify) ⭐ 62,869 | 🐛 723 | 🌐 PHP | 📅 2026-10-11
-* Analytics: [PostHog](https://github.com/PostHog/posthog) ⭐ 40,221 | 🐛 5,608 | 🌐 Python | 📅 2026-10-11
-* Support: [Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 37,708 | 🐛 1,582 | 🌐 Ruby | 📅 2026-10-10
-* Email: [Listmonk](https://github.com/knadh/listmonk) ⭐ 23,754 | 🐛 105 | 🌐 Go | 📅 2026-10-11
-* Starter: [Open SaaS](https://github.com/wasp-lang/open-saas) ⭐ 16,084 | 🐛 110 | 🌐 MDX | 📅 2026-10-09
-* Billing: [Polar](https://github.com/polarsource/polar) ⭐ 10,357 | 🐛 124 | 🌐 Python | 📅 2026-10-11
+* Backend/database/auth: [Supabase](https://github.com/supabase/supabase) ⭐ 111,436 | 🐛 1,149 | 🌐 TypeScript | 📅 2026-10-13
+* Deploy: [Coolify](https://github.com/coollabsio/coolify) ⭐ 62,907 | 🐛 721 | 🌐 PHP | 📅 2026-10-12
+* Analytics: [PostHog](https://github.com/PostHog/posthog) ⭐ 40,247 | 🐛 5,563 | 🌐 Python | 📅 2026-10-13
+* Support: [Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 37,737 | 🐛 1,588 | 🌐 Ruby | 📅 2026-10-12
+* Email: [Listmonk](https://github.com/knadh/listmonk) ⭐ 23,768 | 🐛 108 | 🌐 Go | 📅 2026-10-12
+* Starter: [Open SaaS](https://github.com/wasp-lang/open-saas) ⭐ 16,091 | 🐛 111 | 🌐 MDX | 📅 2026-10-09
+* Billing: [Polar](https://github.com/polarsource/polar) ⭐ 10,362 | 🐛 122 | 🌐 Python | 📅 2026-10-12
 
 ### Mobile app launch stack
 
-* Build/release: [fastlane](https://github.com/fastlane/fastlane) ⭐ 42,232 | 🐛 671 | 🌐 Ruby | 📅 2026-10-10
+* Build/release: [fastlane](https://github.com/fastlane/fastlane) ⭐ 42,238 | 🐛 673 | 🌐 Ruby | 📅 2026-10-12
 * Demo video: [OpenScreen](https://github.com/siddharthvaddem/openscreen) ⚠️ Archived
-* iOS agent loop: [XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) ⭐ 6,475 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-09
+* iOS agent loop: [XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) ⭐ 6,476 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-09
 * App previews: [video-preview-appstore](https://github.com/mdo91/video-preview-appstore) ⭐ 16 | 🐛 0 | 🌐 Swift | 📅 2026-05-12
 * Screenshots: [App Store Screenshots Generator](https://github.com/jawwadfirdousi/appstore-screenshots-generator) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-10, [Appshot](https://github.com/chrisvanbuskirk/appshot) ⚠️ Archived
 
 ### Agent-first build stack
 
-* Coding: [Codex](https://github.com/openai/codex) ⭐ 128,670 | 🐛 22,297 | 🌐 Rust | 📅 2026-10-11, [Claude Code](https://github.com/anthropics/claude-code) ⭐ 150,227 | 🐛 14,697 | 🌐 TypeScript | 📅 2026-10-11
-* Fresh docs: [Context7](https://github.com/upstash/context7) ⭐ 62,909 | 🐛 33 | 🌐 TypeScript | 📅 2026-10-10
-* Browser QA: [Playwright MCP](https://github.com/microsoft/playwright-mcp) ⭐ 38,031 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-08
-* GitHub ops: [GitHub MCP Server](https://github.com/github/github-mcp-server) ⭐ 33,522 | 🐛 355 | 🌐 Go | 📅 2026-10-08
-* Design-to-code: [Figma Context MCP](https://github.com/GLips/Figma-Context-MCP) ⭐ 15,970 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-10
+* Coding: [Codex](https://github.com/openai/codex) ⭐ 128,847 | 🐛 22,179 | 🌐 Rust | 📅 2026-10-12, [Claude Code](https://github.com/anthropics/claude-code) ⭐ 150,449 | 🐛 14,710 | 🌐 TypeScript | 📅 2026-10-13
+* Fresh docs: [Context7](https://github.com/upstash/context7) ⭐ 62,948 | 🐛 35 | 🌐 TypeScript | 📅 2026-10-12
+* Browser QA: [Playwright MCP](https://github.com/microsoft/playwright-mcp) ⭐ 38,069 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-08
+* GitHub ops: [GitHub MCP Server](https://github.com/github/github-mcp-server) ⭐ 33,563 | 🐛 355 | 🌐 Go | 📅 2026-10-12
+* Design-to-code: [Figma Context MCP](https://github.com/GLips/Figma-Context-MCP) ⭐ 15,977 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-12
 
 ### Product marketing stack
 
-* Blog/newsletter: [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,517 | 🐛 179 | 🌐 TypeScript | 📅 2026-10-11
-* Social publishing: [Postiz](https://github.com/gitroomhq/postiz-app) ⭐ 37,041 | 🐛 232 | 🌐 TypeScript | 📅 2026-10-11, [Mixpost](https://github.com/inovector/mixpost) ⭐ 3,800 | 🐛 36 | 🌐 Vue | 📅 2026-03-16
-* Link attribution: [Dub](https://github.com/dubinc/dub) ⭐ 24,874 | 🐛 106 | 🌐 TypeScript | 📅 2026-10-10
-* Deck/proposal analytics: [Papermark](https://github.com/papermark/papermark) ⭐ 9,244 | 🐛 241 | 🌐 TypeScript | 📅 2026-08-28
-* Content video: [ViralMint](https://github.com/openclaw-easy/ViralMint) ⭐ 130 | 🐛 1 | 🌐 Python | 📅 2026-10-11, [OpenShorts](https://github.com/mutonby/openshorts) ⭐ 6,423 | 🐛 7 | 🌐 Python | 📅 2026-10-09
+* Blog/newsletter: [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,524 | 🐛 187 | 🌐 TypeScript | 📅 2026-10-13
+* Social publishing: [Postiz](https://github.com/gitroomhq/postiz-app) ⭐ 37,096 | 🐛 235 | 🌐 TypeScript | 📅 2026-10-13, [Mixpost](https://github.com/inovector/mixpost) ⭐ 3,805 | 🐛 36 | 🌐 Vue | 📅 2026-03-16
+* Link attribution: [Dub](https://github.com/dubinc/dub) ⭐ 24,877 | 🐛 112 | 🌐 TypeScript | 📅 2026-10-12
+* Deck/proposal analytics: [Papermark](https://github.com/papermark/papermark) ⭐ 9,245 | 🐛 241 | 🌐 TypeScript | 📅 2026-08-28
+* Content video: [ViralMint](https://github.com/openclaw-easy/ViralMint) ⭐ 131 | 🐛 1 | 🌐 Python | 📅 2026-10-11, [OpenShorts](https://github.com/mutonby/openshorts) ⭐ 6,459 | 🐛 7 | 🌐 Python | 📅 2026-10-09
 
 ## Selection Criteria
 
@@ -127,16 +127,16 @@ Find painful problems, communities, keywords, and trend signals.
 
 | Tool                                                                                                             | Use                                                                                                       |                                                                                                            |
 | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| [last30days-skill](https://github.com/mvanhorn/last30days-skill) ⭐ 63,976 \| 🐛 25 \| 🌐 Python \| 📅 2026-10-11 | Recent-topic research across Reddit, X, YouTube, HN, Polymarket, and web                                  |                                                                                                            |
+| [last30days-skill](https://github.com/mvanhorn/last30days-skill) ⭐ 64,085 \| 🐛 31 \| 🌐 Python \| 📅 2026-10-11 | Recent-topic research across Reddit, X, YouTube, HN, Polymarket, and web                                  |                                                                                                            |
 | [lastXdays-skill](https://github.com/levineam/lastXdays-skill) ⭐ 47 \| 🐛 1 \| 🌐 Python \| 📅 2026-02-05        | Configurable time-range version of last30days research                                                    |                                                                                                            |
-| [twitter-cli](https://github.com/public-clis/twitter-cli) ⭐ 2,979 \| 🐛 46 \| 🌐 Python \| 📅 2026-05-07         | X/Twitter feed, bookmarks, and timeline research in terminal                                              |                                                                                                            |
+| [twitter-cli](https://github.com/public-clis/twitter-cli) ⭐ 2,982 \| 🐛 46 \| 🌐 Python \| 📅 2026-05-07         | X/Twitter feed, bookmarks, and timeline research in terminal                                              |                                                                                                            |
 | [rdt-cli](https://github.com/public-clis/rdt-cli) ⭐ 539 \| 🐛 16 \| 🌐 Python \| 📅 2026-03-21                   | Reddit feeds, posts, search, saves, and subscriptions in terminal                                         |                                                                                                            |
 | [ig-cli](https://github.com/princepal9120/ig-cli) ⭐ 1 \| 🐛 0 \| 🌐 Python \| 📅 2026-06-16                      | Instagram trend discovery and content research                                                            |                                                                                                            |
 |                                                                                                                  | [tkt-cli](https://github.com/princepal9120/tkt-cli) ⭐ 2 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-06-17         | TikTok trend discovery for terminal-first research                                                         |
 |                                                                                                                  | [startup-find](https://github.com/princepal9120/startup-find) ⭐ 2 \| 🐛 0 \| 🌐 Python \| 📅 2026-07-23   | Local CLI for YC and a16z-style startup data — seeds public datasets into SQLite for offline agent queries |
-|                                                                                                                  | [linkedin-cli](https://github.com/Linked-API/linkedin-cli) ⭐ 60 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-10-08 | Agent-friendly LinkedIn data and account CLI                                                               |
-| [Agent-Reach](https://github.com/Panniantong/Agent-Reach) ⭐ 95,998 \| 🐛 207 \| 🌐 Python \| 📅 2026-10-08       | Multi-platform search/read CLI for agents                                                                 |                                                                                                            |
-| [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) ⭐ 66,654 \| 🐛 216 \| 🌐 Python \| 📅 2026-10-10      | Crawls Xiaohongshu, Douyin, Kuaishou, Bilibili, Weibo, Tieba, Zhihu                                       |                                                                                                            |
+|                                                                                                                  | [linkedin-cli](https://github.com/Linked-API/linkedin-cli) ⭐ 60 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-10-12 | Agent-friendly LinkedIn data and account CLI                                                               |
+| [Agent-Reach](https://github.com/Panniantong/Agent-Reach) ⭐ 96,603 \| 🐛 208 \| 🌐 Python \| 📅 2026-10-08       | Multi-platform search/read CLI for agents                                                                 |                                                                                                            |
+| [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) ⭐ 66,719 \| 🐛 216 \| 🌐 Python \| 📅 2026-10-10      | Crawls Xiaohongshu, Douyin, Kuaishou, Bilibili, Weibo, Tieba, Zhihu                                       |                                                                                                            |
 
 Playbook: [trend-to-content engine](playbooks/trend-to-content-engine.md)
 
@@ -146,11 +146,11 @@ Create landing pages, prototypes, and design-to-code workflows.
 
 | Tool                                                                                                                | Use                                                                                                           |                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [Webstudio](https://github.com/webstudio-is/webstudio) ⭐ 9,054 \| 🐛 360 \| 🌐 TypeScript \| 📅 2026-10-11          | Open-source Webflow alternative                                                                               |                                                                                                      |
-| [Plasmic](https://github.com/plasmicapp/plasmic) ⭐ 7,091 \| 🐛 49 \| 🌐 TypeScript \| 📅 2026-10-09                 | Visual builder for React apps, sites, and content                                                             |                                                                                                      |
-| [GrapesJS](https://github.com/GrapesJS/grapesjs) ⭐ 26,298 \| 🐛 31 \| 🌐 TypeScript \| 📅 2026-10-06                | Open-source web builder framework                                                                             |                                                                                                      |
-| [Figma Context MCP](https://github.com/GLips/Figma-Context-MCP) ⭐ 15,970 \| 🐛 27 \| 🌐 TypeScript \| 📅 2026-10-10 | Figma layout context for AI coding agents                                                                     |                                                                                                      |
-|                                                                                                                     | [Hyperframes](https://github.com/heygen-com/hyperframes) ⭐ 60,936 \| 🐛 257 \| 🌐 TypeScript \| 📅 2026-10-11 | HTML-to-video launch explainers                                                                      |
+| [Webstudio](https://github.com/webstudio-is/webstudio) ⭐ 9,058 \| 🐛 359 \| 🌐 TypeScript \| 📅 2026-10-12          | Open-source Webflow alternative                                                                               |                                                                                                      |
+| [Plasmic](https://github.com/plasmicapp/plasmic) ⭐ 7,097 \| 🐛 49 \| 🌐 TypeScript \| 📅 2026-10-13                 | Visual builder for React apps, sites, and content                                                             |                                                                                                      |
+| [GrapesJS](https://github.com/GrapesJS/grapesjs) ⭐ 26,301 \| 🐛 31 \| 🌐 TypeScript \| 📅 2026-10-06                | Open-source web builder framework                                                                             |                                                                                                      |
+| [Figma Context MCP](https://github.com/GLips/Figma-Context-MCP) ⭐ 15,977 \| 🐛 27 \| 🌐 TypeScript \| 📅 2026-10-12 | Figma layout context for AI coding agents                                                                     |                                                                                                      |
+|                                                                                                                     | [Hyperframes](https://github.com/heygen-com/hyperframes) ⭐ 61,849 \| 🐛 259 \| 🌐 TypeScript \| 📅 2026-10-13 | HTML-to-video launch explainers                                                                      |
 |                                                                                                                     | [iconscan](https://github.com/princepal9120/iconscan) ⭐ 2 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-09-22           | Deterministic icon audits for React/Next.js/TS apps — score, find dead icons, recommend alternatives |
 
 ## Starter kits
@@ -159,8 +159,8 @@ Start with a product-shaped repo instead of a blank folder.
 
 | Tool                                                                                                                            | Use                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| [Open SaaS](https://github.com/wasp-lang/open-saas) ⭐ 16,084 \| 🐛 110 \| 🌐 MDX \| 📅 2026-10-09                               | SaaS starter with auth, jobs, payments, landing page                                    |
-| [SaaS Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) ⭐ 7,449 \| 🐛 3 \| 🌐 TypeScript \| 📅 2026-10-01                | Next.js SaaS starter                                                                    |
+| [Open SaaS](https://github.com/wasp-lang/open-saas) ⭐ 16,091 \| 🐛 111 \| 🌐 MDX \| 📅 2026-10-09                               | SaaS starter with auth, jobs, payments, landing page                                    |
+| [SaaS Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) ⭐ 7,450 \| 🐛 3 \| 🌐 TypeScript \| 📅 2026-10-01                | Next.js SaaS starter                                                                    |
 | [XcodeBuildMCP iOS Template](https://github.com/getsentry/XcodeBuildMCP-iOS-Template) ⭐ 42 \| 🐛 2 \| 🌐 Shell \| 📅 2025-06-13 | iOS starter template for agent-assisted builds                                          |
 | [MailKite SaaS Starter](https://github.com/mailkite/saas-startup) ⭐ 0 \| 🐛 83 \| 🌐 TypeScript \| 📅 2026-10-06                | Next.js SaaS starter with in-app auth (no auth vendor), Stripe subscriptions, and teams |
 
@@ -170,10 +170,10 @@ Build the first useful product slice.
 
 | Tool                                                                                                    | Use                                              |
 | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| [Payload](https://github.com/payloadcms/payload) ⭐ 45,196 \| 🐛 1,288 \| 🌐 TypeScript \| 📅 2026-10-10 | Full-stack Next.js backend, admin panel, and CMS |
-| [JeecgBoot](https://github.com/jeecgboot/JeecgBoot) ⭐ 48,174 \| 🐛 55 \| 🌐 Java \| 📅 2026-09-22       | AI low-code app builder                          |
-| [Budibase](https://github.com/Budibase/budibase) ⭐ 28,334 \| 🐛 270 \| 🌐 TypeScript \| 📅 2026-10-11   | Internal apps, automations, and operations tools |
-| [ToolJet](https://github.com/ToolJet/ToolJet) ⭐ 41,077 \| 🐛 922 \| 🌐 HTML \| 📅 2026-10-11            | App builder and AI workflow foundation           |
+| [Payload](https://github.com/payloadcms/payload) ⭐ 45,222 \| 🐛 1,292 \| 🌐 TypeScript \| 📅 2026-10-12 | Full-stack Next.js backend, admin panel, and CMS |
+| [JeecgBoot](https://github.com/jeecgboot/JeecgBoot) ⭐ 48,193 \| 🐛 29 \| 🌐 Java \| 📅 2026-10-12       | AI low-code app builder                          |
+| [Budibase](https://github.com/Budibase/budibase) ⭐ 28,331 \| 🐛 268 \| 🌐 TypeScript \| 📅 2026-10-12   | Internal apps, automations, and operations tools |
+| [ToolJet](https://github.com/ToolJet/ToolJet) ⭐ 41,089 \| 🐛 843 \| 🌐 HTML \| 📅 2026-10-13            | App builder and AI workflow foundation           |
 
 ## Auth and identity
 
@@ -181,9 +181,9 @@ Add accounts, sessions, teams, and SaaS-ready identity.
 
 | Tool                                                                                                           | Use                                                        |
 | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| [Better Auth](https://github.com/better-auth/better-auth) ⭐ 30,263 \| 🐛 854 \| 🌐 TypeScript \| 📅 2026-10-11 | TypeScript authentication framework                        |
-| [Auth.js](https://github.com/nextauthjs/next-auth) ⭐ 28,367 \| 🐛 603 \| 🌐 TypeScript \| 📅 2026-07-22        | Web authentication library                                 |
-| [Logto](https://github.com/logto-io/logto) ⭐ 14,667 \| 🐛 169 \| 🌐 TypeScript \| 📅 2026-10-11                | Auth and authorization infrastructure for SaaS and AI apps |
+| [Better Auth](https://github.com/better-auth/better-auth) ⭐ 30,274 \| 🐛 864 \| 🌐 TypeScript \| 📅 2026-10-13 | TypeScript authentication framework                        |
+| [Auth.js](https://github.com/nextauthjs/next-auth) ⭐ 28,366 \| 🐛 603 \| 🌐 TypeScript \| 📅 2026-07-22        | Web authentication library                                 |
+| [Logto](https://github.com/logto-io/logto) ⭐ 14,675 \| 🐛 174 \| 🌐 TypeScript \| 📅 2026-10-13                | Auth and authorization infrastructure for SaaS and AI apps |
 
 ## Database and backend
 
@@ -191,10 +191,10 @@ Store users, content, files, events, and product data.
 
 | Tool                                                                                                     | Use                                                 |
 | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| [Supabase](https://github.com/supabase/supabase) ⭐ 111,367 \| 🐛 1,154 \| 🌐 TypeScript \| 📅 2026-10-11 | Postgres, auth, storage, realtime, edge functions   |
-| [PocketBase](https://github.com/pocketbase/pocketbase) ⭐ 61,361 \| 🐛 19 \| 🌐 Go \| 📅 2026-10-08       | SQLite-backed app backend in one binary             |
-| [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,642 \| 🐛 795 \| 🌐 TypeScript \| 📅 2026-10-11    | Backend APIs for auth, database, storage, functions |
-| [Directus](https://github.com/directus/directus) ⭐ 38,412 \| 🐛 356 \| 🌐 TypeScript \| 📅 2026-10-11    | Headless CMS and data platform over SQL             |
+| [Supabase](https://github.com/supabase/supabase) ⭐ 111,436 \| 🐛 1,149 \| 🌐 TypeScript \| 📅 2026-10-13 | Postgres, auth, storage, realtime, edge functions   |
+| [PocketBase](https://github.com/pocketbase/pocketbase) ⭐ 61,384 \| 🐛 19 \| 🌐 Go \| 📅 2026-10-12       | SQLite-backed app backend in one binary             |
+| [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,653 \| 🐛 768 \| 🌐 TypeScript \| 📅 2026-10-13    | Backend APIs for auth, database, storage, functions |
+| [Directus](https://github.com/directus/directus) ⭐ 38,437 \| 🐛 359 \| 🌐 TypeScript \| 📅 2026-10-11    | Headless CMS and data platform over SQL             |
 
 ## AI agents and MCP
 
@@ -202,21 +202,21 @@ Use agents to code, test, browse, inspect design, and run product workflows.
 
 | Tool                                                                                                                 | Use                                                                                             |                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| [Codex](https://github.com/openai/codex) ⭐ 128,670 \| 🐛 22,297 \| 🌐 Rust \| 📅 2026-10-11                          | Terminal coding agent                                                                           |                                                                                        |
-| [Claude Code](https://github.com/anthropics/claude-code) ⭐ 150,227 \| 🐛 14,697 \| 🌐 TypeScript \| 📅 2026-10-11    | Agentic coding tool in terminal                                                                 |                                                                                        |
-| [Gemini CLI](https://github.com/google-gemini/gemini-cli) ⭐ 107,287 \| 🐛 761 \| 🌐 TypeScript \| 📅 2026-10-10      | Open-source Gemini coding and research agent                                                    |                                                                                        |
-| [OpenCode](https://github.com/anomalyco/opencode) ⭐ 212,729 \| 🐛 3,986 \| 🌐 TypeScript \| 📅 2026-10-11            | Open-source multi-model coding agent                                                            |                                                                                        |
-| [Qwen Code](https://github.com/QwenLM/qwen-code) ⭐ 28,423 \| 🐛 1,806 \| 🌐 TypeScript \| 📅 2026-10-11              | Open-source terminal coding agent                                                               |                                                                                        |
-| [XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) ⭐ 6,475 \| 🐛 25 \| 🌐 TypeScript \| 📅 2026-10-09       | iOS/macOS build, test, simulator, and logs for agents                                           |                                                                                        |
-| [Playwright MCP](https://github.com/microsoft/playwright-mcp) ⭐ 38,031 \| 🐛 2 \| 🌐 TypeScript \| 📅 2026-10-08     | Browser automation and QA for agents                                                            |                                                                                        |
-| [GitHub MCP Server](https://github.com/github/github-mcp-server) ⭐ 33,522 \| 🐛 355 \| 🌐 Go \| 📅 2026-10-08        | GitHub issues, PRs, repos, and code workflow                                                    |                                                                                        |
-| [Context7](https://github.com/upstash/context7) ⭐ 62,909 \| 🐛 33 \| 🌐 TypeScript \| 📅 2026-10-10                  | Fresh docs for LLMs and code editors                                                            |                                                                                        |
-| [MCP Servers](https://github.com/modelcontextprotocol/servers) ⭐ 91,149 \| 🐛 492 \| 🌐 JavaScript \| 📅 2026-10-11  | Model Context Protocol server collection                                                        |                                                                                        |
-| [MCP Registry](https://github.com/modelcontextprotocol/registry) ⭐ 7,337 \| 🐛 173 \| 🌐 Go \| 📅 2026-10-11         | Community registry for MCP servers                                                              |                                                                                        |
-| [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 96,140 \| 🐛 2,669 \| 📅 2026-10-09         | Curated MCP server list                                                                         |                                                                                        |
-| [UI-TARS Desktop](https://github.com/bytedance/UI-TARS-desktop) ⭐ 39,237 \| 🐛 480 \| 🌐 TypeScript \| 📅 2026-10-09 | Open-source multimodal desktop agent stack                                                      |                                                                                        |
-| [CowAgent](https://github.com/zhayujie/CowAgent) ⭐ 47,347 \| 🐛 55 \| 🌐 Python \| 📅 2026-10-11                     | AI assistant and agent harness                                                                  |                                                                                        |
-|                                                                                                                      | [CodeWhale](https://github.com/Hmbown/CodeWhale) ⭐ 41,078 \| 🐛 216 \| 🌐 Rust \| 📅 2026-10-11 | DeepSeek-first agentic coding terminal                                                 |
+| [Codex](https://github.com/openai/codex) ⭐ 128,847 \| 🐛 22,179 \| 🌐 Rust \| 📅 2026-10-12                          | Terminal coding agent                                                                           |                                                                                        |
+| [Claude Code](https://github.com/anthropics/claude-code) ⭐ 150,449 \| 🐛 14,710 \| 🌐 TypeScript \| 📅 2026-10-13    | Agentic coding tool in terminal                                                                 |                                                                                        |
+| [Gemini CLI](https://github.com/google-gemini/gemini-cli) ⭐ 107,301 \| 🐛 762 \| 🌐 TypeScript \| 📅 2026-10-13      | Open-source Gemini coding and research agent                                                    |                                                                                        |
+| [OpenCode](https://github.com/anomalyco/opencode) ⭐ 212,966 \| 🐛 4,141 \| 🌐 TypeScript \| 📅 2026-10-13            | Open-source multi-model coding agent                                                            |                                                                                        |
+| [Qwen Code](https://github.com/QwenLM/qwen-code) ⭐ 28,454 \| 🐛 1,830 \| 🌐 TypeScript \| 📅 2026-10-13              | Open-source terminal coding agent                                                               |                                                                                        |
+| [XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) ⭐ 6,476 \| 🐛 25 \| 🌐 TypeScript \| 📅 2026-10-09       | iOS/macOS build, test, simulator, and logs for agents                                           |                                                                                        |
+| [Playwright MCP](https://github.com/microsoft/playwright-mcp) ⭐ 38,069 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-10-08     | Browser automation and QA for agents                                                            |                                                                                        |
+| [GitHub MCP Server](https://github.com/github/github-mcp-server) ⭐ 33,563 \| 🐛 355 \| 🌐 Go \| 📅 2026-10-12        | GitHub issues, PRs, repos, and code workflow                                                    |                                                                                        |
+| [Context7](https://github.com/upstash/context7) ⭐ 62,948 \| 🐛 35 \| 🌐 TypeScript \| 📅 2026-10-12                  | Fresh docs for LLMs and code editors                                                            |                                                                                        |
+| [MCP Servers](https://github.com/modelcontextprotocol/servers) ⭐ 91,186 \| 🐛 488 \| 🌐 JavaScript \| 📅 2026-10-12  | Model Context Protocol server collection                                                        |                                                                                        |
+| [MCP Registry](https://github.com/modelcontextprotocol/registry) ⭐ 7,346 \| 🐛 175 \| 🌐 Go \| 📅 2026-10-11         | Community registry for MCP servers                                                              |                                                                                        |
+| [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 96,240 \| 🐛 2,726 \| 📅 2026-10-09         | Curated MCP server list                                                                         |                                                                                        |
+| [UI-TARS Desktop](https://github.com/bytedance/UI-TARS-desktop) ⭐ 39,252 \| 🐛 482 \| 🌐 TypeScript \| 📅 2026-10-09 | Open-source multimodal desktop agent stack                                                      |                                                                                        |
+| [CowAgent](https://github.com/zhayujie/CowAgent) ⭐ 47,361 \| 🐛 64 \| 🌐 Python \| 📅 2026-10-12                     | AI assistant and agent harness                                                                  |                                                                                        |
+|                                                                                                                      | [CodeWhale](https://github.com/Hmbown/CodeWhale) ⭐ 41,076 \| 🐛 214 \| 🌐 Rust \| 📅 2026-10-13 | DeepSeek-first agentic coding terminal                                                 |
 |                                                                                                                      | [Shiba](https://github.com/princepal9120/shiba) ⭐ 6 \| 🐛 1 \| 🌐 TypeScript \| 📅 2026-10-11   | Self-hosted AI coworker on Cloudflare — agentic coworker that runs alongside your team |
 
 Playbook: [agent-assisted product build sprint](playbooks/agent-assisted-product-build-sprint.md)
@@ -227,9 +227,9 @@ Charge customers, meter usage, and handle subscriptions.
 
 | Tool                                                                                            | Use                                                         |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| [Polar](https://github.com/polarsource/polar) ⭐ 10,357 \| 🐛 124 \| 🌐 Python \| 📅 2026-10-11  | Developer-product payments, subscriptions, digital products |
-| [Lago](https://github.com/getlago/lago) ⭐ 10,672 \| 🐛 30 \| 🌐 Go \| 📅 2026-10-09             | Usage-based billing and metering                            |
-| [Kill Bill](https://github.com/killbill/killbill) ⭐ 5,791 \| 🐛 273 \| 🌐 Java \| 📅 2026-10-08 | Subscription billing platform                               |
+| [Polar](https://github.com/polarsource/polar) ⭐ 10,362 \| 🐛 122 \| 🌐 Python \| 📅 2026-10-12  | Developer-product payments, subscriptions, digital products |
+| [Lago](https://github.com/getlago/lago) ⭐ 10,674 \| 🐛 30 \| 🌐 Go \| 📅 2026-10-09             | Usage-based billing and metering                            |
+| [Kill Bill](https://github.com/killbill/killbill) ⭐ 5,790 \| 🐛 273 \| 🌐 Java \| 📅 2026-10-12 | Subscription billing platform                               |
 
 ## Analytics and feedback
 
@@ -237,11 +237,11 @@ Learn what users do and what they need.
 
 | Tool                                                                                                        | Use                                           |
 | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [PostHog](https://github.com/PostHog/posthog) ⭐ 40,221 \| 🐛 5,608 \| 🌐 Python \| 📅 2026-10-11            | Product analytics, replay, flags, surveys     |
-| [Plausible](https://github.com/plausible/analytics) ⭐ 29,366 \| 🐛 65 \| 🌐 Elixir \| 📅 2026-10-09         | Privacy-friendly web analytics                |
-| [Umami](https://github.com/umami-software/umami) ⭐ 39,310 \| 🐛 122 \| 🌐 TypeScript \| 📅 2026-10-11       | Simple self-hosted web analytics              |
-| [GrowthBook](https://github.com/growthbook/growthbook) ⭐ 8,487 \| 🐛 828 \| 🌐 TypeScript \| 📅 2026-10-11  | Feature flags, experiments, product analytics |
-| [Formbricks](https://github.com/formbricks/formbricks) ⭐ 13,080 \| 🐛 182 \| 🌐 TypeScript \| 📅 2026-10-11 | User research and surveys                     |
+| [PostHog](https://github.com/PostHog/posthog) ⭐ 40,247 \| 🐛 5,563 \| 🌐 Python \| 📅 2026-10-13            | Product analytics, replay, flags, surveys     |
+| [Plausible](https://github.com/plausible/analytics) ⭐ 29,381 \| 🐛 69 \| 🌐 Elixir \| 📅 2026-10-12         | Privacy-friendly web analytics                |
+| [Umami](https://github.com/umami-software/umami) ⭐ 39,337 \| 🐛 122 \| 🌐 TypeScript \| 📅 2026-10-13       | Simple self-hosted web analytics              |
+| [GrowthBook](https://github.com/growthbook/growthbook) ⭐ 8,496 \| 🐛 831 \| 🌐 TypeScript \| 📅 2026-10-12  | Feature flags, experiments, product analytics |
+| [Formbricks](https://github.com/formbricks/formbricks) ⭐ 13,093 \| 🐛 182 \| 🌐 TypeScript \| 📅 2026-10-12 | User research and surveys                     |
 | [Fider](https://github.com/getfider/fider) ⭐ 4,574 \| 🐛 47 \| 🌐 Go \| 📅 2026-10-09                       | Feature requests and feedback voting          |
 
 ## Email and lifecycle messaging
@@ -250,11 +250,11 @@ Send newsletters, onboarding, transactional mail, and lifecycle nudges.
 
 | Tool                                                                                                   | Use                                                          |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Listmonk](https://github.com/knadh/listmonk) ⭐ 23,754 \| 🐛 105 \| 🌐 Go \| 📅 2026-10-11             | Newsletter and mailing lists                                 |
-| [Mautic](https://github.com/mautic/mautic) ⭐ 10,748 \| 🐛 276 \| 🌐 PHP \| 📅 2026-10-09               | Marketing automation                                         |
-| [Dittofeed](https://github.com/dittofeed/dittofeed) ⭐ 3,001 \| 🐛 62 \| 🌐 TypeScript \| 📅 2026-10-04 | Customer engagement across email, SMS, push, WhatsApp, Slack |
-| [useSend](https://github.com/usesend/useSend) ⭐ 4,717 \| 🐛 42 \| 🌐 TypeScript \| 📅 2026-09-08       | Open-source transactional email platform                     |
-| [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,517 \| 🐛 179 \| 🌐 TypeScript \| 📅 2026-10-11        | Publishing, newsletters, memberships, subscriptions          |
+| [Listmonk](https://github.com/knadh/listmonk) ⭐ 23,768 \| 🐛 108 \| 🌐 Go \| 📅 2026-10-12             | Newsletter and mailing lists                                 |
+| [Mautic](https://github.com/mautic/mautic) ⭐ 10,752 \| 🐛 282 \| 🌐 PHP \| 📅 2026-10-12               | Marketing automation                                         |
+| [Dittofeed](https://github.com/dittofeed/dittofeed) ⭐ 3,002 \| 🐛 63 \| 🌐 TypeScript \| 📅 2026-10-12 | Customer engagement across email, SMS, push, WhatsApp, Slack |
+| [useSend](https://github.com/usesend/useSend) ⭐ 4,726 \| 🐛 42 \| 🌐 TypeScript \| 📅 2026-09-08       | Open-source transactional email platform                     |
+| [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,524 \| 🐛 187 \| 🌐 TypeScript \| 📅 2026-10-13        | Publishing, newsletters, memberships, subscriptions          |
 
 ## Support, CRM, and community
 
@@ -262,14 +262,14 @@ Talk to users, close deals, and build community loops.
 
 | Tool                                                                                                      | Use                                           |
 | --------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [Twenty](https://github.com/twentyhq/twenty) ⭐ 58,215 \| 🐛 105 \| 🌐 TypeScript \| 📅 2026-10-11         | Modern CRM                                    |
-| [EspoCRM](https://github.com/espocrm/espocrm) ⭐ 3,473 \| 🐛 63 \| 🌐 PHP \| 📅 2026-10-09                 | CRM                                           |
-| [Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 37,708 \| 🐛 1,582 \| 🌐 Ruby \| 📅 2026-10-10         | Support inbox and live chat                   |
+| [Twenty](https://github.com/twentyhq/twenty) ⭐ 58,257 \| 🐛 135 \| 🌐 TypeScript \| 📅 2026-10-13         | Modern CRM                                    |
+| [EspoCRM](https://github.com/espocrm/espocrm) ⭐ 3,478 \| 🐛 65 \| 🌐 PHP \| 📅 2026-10-12                 | CRM                                           |
+| [Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 37,737 \| 🐛 1,588 \| 🌐 Ruby \| 📅 2026-10-12         | Support inbox and live chat                   |
 | [Frappe Helpdesk](https://github.com/frappe/helpdesk) ⭐ 3,429 \| 🐛 191 \| 🌐 Vue \| 📅 2026-10-11        | Helpdesk                                      |
-| [Typebot](https://github.com/baptisteArno/typebot.io) ⭐ 10,532 \| 🐛 16 \| 🌐 TypeScript \| 📅 2026-10-07 | Chatbot and funnel builder                    |
-| [Cal.com](https://github.com/calcom/cal.diy) ⭐ 48,955 \| 🐛 1,501 \| 🌐 TypeScript \| 📅 2026-09-26       | Scheduling for demos, sales calls, onboarding |
-| [Discourse](https://github.com/discourse/discourse) ⭐ 47,962 \| 🐛 270 \| 🌐 Ruby \| 📅 2026-10-11        | Community forum                               |
-| [Forem](https://github.com/forem/forem) ⭐ 22,795 \| 🐛 156 \| 🌐 Ruby \| 📅 2026-10-09                    | Community publishing platform                 |
+| [Typebot](https://github.com/baptisteArno/typebot.io) ⭐ 10,535 \| 🐛 17 \| 🌐 TypeScript \| 📅 2026-10-07 | Chatbot and funnel builder                    |
+| [Cal.com](https://github.com/calcom/cal.diy) ⭐ 48,971 \| 🐛 1,504 \| 🌐 TypeScript \| 📅 2026-09-26       | Scheduling for demos, sales calls, onboarding |
+| [Discourse](https://github.com/discourse/discourse) ⭐ 47,967 \| 🐛 281 \| 🌐 Ruby \| 📅 2026-10-13        | Community forum                               |
+| [Forem](https://github.com/forem/forem) ⭐ 22,794 \| 🐛 156 \| 🌐 Ruby \| 📅 2026-10-12                    | Community publishing platform                 |
 
 ## Marketing and growth
 
@@ -277,16 +277,16 @@ Create demand, track campaigns, publish content, and convert leads.
 
 | Tool                                                                                                        | Use                                                                |
 | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [Dub](https://github.com/dubinc/dub) ⭐ 24,874 \| 🐛 106 \| 🌐 TypeScript \| 📅 2026-10-10                   | Link attribution, short links, QR codes, campaign tracking         |
-| [Papermark](https://github.com/papermark/papermark) ⭐ 9,244 \| 🐛 241 \| 🌐 TypeScript \| 📅 2026-08-28     | DocSend alternative for pitch decks, proposals, document analytics |
-| [Postiz](https://github.com/gitroomhq/postiz-app) ⭐ 37,041 \| 🐛 232 \| 🌐 TypeScript \| 📅 2026-10-11      | Agentic social media scheduling                                    |
-| [Mixpost](https://github.com/inovector/mixpost) ⭐ 3,800 \| 🐛 36 \| 🌐 Vue \| 📅 2026-03-16                 | Self-hosted social media management                                |
-| [OpenPost](https://github.com/getopenpost/openpost) ⭐ 694 \| 🐛 1 \| 🌐 TypeScript \| 📅 2026-10-11         | Self-hosted social publishing with API, CLI, and MCP access        |
-| [TryPost](https://github.com/trypostit/trypost) ⭐ 693 \| 🐛 36 \| 🌐 PHP \| 📅 2026-10-11                   | Social scheduling and content calendar                             |
-| [LateWiz](https://github.com/zernio-dev/latewiz) ⭐ 83 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-07-23             | Multi-platform social scheduler                                    |
-| [LinkStack](https://github.com/LinkStackOrg/LinkStack) ⭐ 3,897 \| 🐛 53 \| 🌐 PHP \| 📅 2026-10-04          | Self-hosted link-in-bio/profile page                               |
+| [Dub](https://github.com/dubinc/dub) ⭐ 24,877 \| 🐛 112 \| 🌐 TypeScript \| 📅 2026-10-12                   | Link attribution, short links, QR codes, campaign tracking         |
+| [Papermark](https://github.com/papermark/papermark) ⭐ 9,245 \| 🐛 241 \| 🌐 TypeScript \| 📅 2026-08-28     | DocSend alternative for pitch decks, proposals, document analytics |
+| [Postiz](https://github.com/gitroomhq/postiz-app) ⭐ 37,096 \| 🐛 235 \| 🌐 TypeScript \| 📅 2026-10-13      | Agentic social media scheduling                                    |
+| [Mixpost](https://github.com/inovector/mixpost) ⭐ 3,805 \| 🐛 36 \| 🌐 Vue \| 📅 2026-03-16                 | Self-hosted social media management                                |
+| [OpenPost](https://github.com/getopenpost/openpost) ⭐ 724 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-10-13         | Self-hosted social publishing with API, CLI, and MCP access        |
+| [TryPost](https://github.com/trypostit/trypost) ⭐ 702 \| 🐛 37 \| 🌐 PHP \| 📅 2026-10-13                   | Social scheduling and content calendar                             |
+| [LateWiz](https://github.com/zernio-dev/latewiz) ⭐ 84 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-07-23             | Multi-platform social scheduler                                    |
+| [LinkStack](https://github.com/LinkStackOrg/LinkStack) ⭐ 3,900 \| 🐛 53 \| 🌐 PHP \| 📅 2026-10-04          | Self-hosted link-in-bio/profile page                               |
 | [seotoolsuite](https://github.com/nitishkgupta/seotoolsuite) ⭐ 54 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-10-07 | SEO tooling                                                        |
-| [RespectASO](https://github.com/respectlytics/respectaso) ⭐ 518 \| 🐛 0 \| 🌐 Python \| 📅 2026-10-08       | App Store Optimization keyword research                            |
+| [RespectASO](https://github.com/respectlytics/respectaso) ⭐ 519 \| 🐛 0 \| 🌐 Python \| 📅 2026-10-12       | App Store Optimization keyword research                            |
 
 \| [TinyTools](https://github.com/alfredoautomatizaloconia-cloud/tinytools) ⭐ 1 | 🐛 0 | 🌐 HTML | 📅 2026-06-04 | OG image generator, SEO meta tag generator, favicon generator, AI background remover, color palette, AI robots.txt generator — all browser-based, no backend |
 
@@ -296,25 +296,25 @@ Create launch demos, shorts, UGC, raw-video edits, and programmatic video assets
 
 | Tool                                                                                                                       | Use                                                                       |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [ViralMint](https://github.com/openclaw-easy/ViralMint) ⭐ 130 \| 🐛 1 \| 🌐 Python \| 📅 2026-10-11                        | Trend scouting, competitor analysis, AI video generation, auto-publishing |
-| [OpenShorts](https://github.com/mutonby/openshorts) ⭐ 6,423 \| 🐛 7 \| 🌐 Python \| 📅 2026-10-09                          | AI UGC video platform and clip generator                                  |
-| [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ⭐ 129,732 \| 🐛 92 \| 🌐 Python \| 📅 2026-10-10       | One-click AI short-video generation                                       |
-| [ai-trend-publish](https://github.com/liyown/ai-trend-publish) ⭐ 3,201 \| 🐛 3 \| 🌐 TypeScript \| 📅 2026-08-04           | Trend scraping, AI content generation, scheduled publishing               |
-| [short-video-maker](https://github.com/gyoridavid/short-video-maker) ⭐ 1,405 \| 🐛 28 \| 🌐 TypeScript \| 📅 2025-06-21    | MCP/REST short-video generation                                           |
+| [ViralMint](https://github.com/openclaw-easy/ViralMint) ⭐ 131 \| 🐛 1 \| 🌐 Python \| 📅 2026-10-11                        | Trend scouting, competitor analysis, AI video generation, auto-publishing |
+| [OpenShorts](https://github.com/mutonby/openshorts) ⭐ 6,459 \| 🐛 7 \| 🌐 Python \| 📅 2026-10-09                          | AI UGC video platform and clip generator                                  |
+| [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ⭐ 130,284 \| 🐛 93 \| 🌐 Python \| 📅 2026-10-12       | One-click AI short-video generation                                       |
+| [ai-trend-publish](https://github.com/liyown/ai-trend-publish) ⭐ 3,205 \| 🐛 3 \| 🌐 TypeScript \| 📅 2026-08-04           | Trend scraping, AI content generation, scheduled publishing               |
+| [short-video-maker](https://github.com/gyoridavid/short-video-maker) ⭐ 1,406 \| 🐛 28 \| 🌐 TypeScript \| 📅 2025-06-21    | MCP/REST short-video generation                                           |
 | [ClippedAI](https://github.com/Shaarav4795/ClippedAI) ⭐ 216 \| 🐛 5 \| 🌐 Python \| 📅 2026-09-04                          | Open-source OpusClip-style shorts generator                               |
 | [ViralCutter](https://github.com/RafaelGodoyEbert/ViralCutter) ⭐ 423 \| 🐛 7 \| 🌐 Python \| 📅 2026-09-10                 | Cut long YouTube videos into short clips                                  |
-| [vex](https://github.com/AKMessi/vex) ⭐ 88 \| 🐛 5 \| 🌐 Python \| 📅 2026-10-08                                           | Terminal AI video editing agent                                           |
+| [vex](https://github.com/AKMessi/vex) ⭐ 88 \| 🐛 5 \| 🌐 Python \| 📅 2026-10-12                                           | Terminal AI video editing agent                                           |
 | [VibeFrame](https://github.com/vericontext/vibeframe) ⭐ 175 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-10-05                      | CLI-first, MCP-ready AI-native video editor                               |
-| [OpenMontage](https://github.com/calesthio/OpenMontage) ⭐ 66,947 \| 🐛 394 \| 🌐 Python \| 📅 2026-10-03                   | Agentic video production system                                           |
+| [OpenMontage](https://github.com/calesthio/OpenMontage) ⭐ 67,576 \| 🐛 375 \| 🌐 Python \| 📅 2026-10-12                   | Agentic video production system                                           |
 | [OpenReelio](https://github.com/openreelio/openreelio) ⭐ 86 \| 🐛 23 \| 🌐 Rust \| 📅 2026-10-05                           | Prompt-driven AI video editor                                             |
-| [auto-editor](https://github.com/WyattBlue/auto-editor) ⭐ 5,482 \| 🐛 0 \| 🌐 Nim \| 📅 2026-10-10                         | Auto-cuts silence and dead space from raw footage                         |
-| [LosslessCut](https://github.com/mifi/lossless-cut) ⭐ 44,468 \| 🐛 323 \| 🌐 TypeScript \| 📅 2026-09-30                   | Lossless video/audio trimming and splitting                               |
+| [auto-editor](https://github.com/WyattBlue/auto-editor) ⭐ 5,491 \| 🐛 0 \| 🌐 Nim \| 📅 2026-10-12                         | Auto-cuts silence and dead space from raw footage                         |
+| [LosslessCut](https://github.com/mifi/lossless-cut) ⭐ 44,508 \| 🐛 323 \| 🌐 TypeScript \| 📅 2026-09-30                   | Lossless video/audio trimming and splitting                               |
 | [OpenScreen](https://github.com/siddharthvaddem/openscreen) ⚠️ Archived                                                    | Product demo videos                                                       |
-| [Remotion](https://github.com/remotion-dev/remotion) ⭐ 63,281 \| 🐛 190 \| 🌐 TypeScript \| 📅 2026-10-11                  | Programmatic video generation with React                                  |
-| [MoviePy](https://github.com/Zulko/moviepy) ⭐ 14,969 \| 🐛 89 \| 🌐 Python \| 📅 2026-08-26                                | Python video editing library                                              |
-| [OpenTimelineIO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO) ⭐ 2,015 \| 🐛 213 \| 🌐 C++ \| 📅 2026-10-09 | Open timeline interchange API                                             |
-| [Kdenlive](https://github.com/KDE/kdenlive) ⭐ 5,834 \| 🐛 0 \| 🌐 C++ \| 📅 2026-10-11                                     | Full open-source video editor                                             |
-| [Shotcut](https://github.com/mltframework/shotcut) ⭐ 15,399 \| 🐛 52 \| 🌐 C++ \| 📅 2026-10-11                            | Cross-platform open-source video editor                                   |
+| [Remotion](https://github.com/remotion-dev/remotion) ⭐ 63,618 \| 🐛 178 \| 🌐 TypeScript \| 📅 2026-10-12                  | Programmatic video generation with React                                  |
+| [MoviePy](https://github.com/Zulko/moviepy) ⭐ 14,974 \| 🐛 90 \| 🌐 Python \| 📅 2026-08-26                                | Python video editing library                                              |
+| [OpenTimelineIO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO) ⭐ 2,016 \| 🐛 213 \| 🌐 C++ \| 📅 2026-10-09 | Open timeline interchange API                                             |
+| [Kdenlive](https://github.com/KDE/kdenlive) ⭐ 5,844 \| 🐛 0 \| 🌐 C++ \| 📅 2026-10-12                                     | Full open-source video editor                                             |
+| [Shotcut](https://github.com/mltframework/shotcut) ⭐ 15,407 \| 🐛 53 \| 🌐 C++ \| 📅 2026-10-12                            | Cross-platform open-source video editor                                   |
 
 ## Docs and knowledge base
 
@@ -323,11 +323,11 @@ Write docs, help centers, internal notes, and launch knowledge.
 | Tool                                                                                                      | Use                                                        |
 | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | [Docusaurus](https://github.com/facebook/docusaurus) ⭐ 66,472 \| 🐛 430 \| 🌐 TypeScript \| 📅 2026-10-10 | Documentation website                                      |
-| [Docmost](https://github.com/docmost/docmost) ⭐ 21,943 \| 🐛 355 \| 🌐 TypeScript \| 📅 2026-10-11        | Collaborative wiki and docs                                |
-| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ⭐ 77,230 \| 🐛 1,037 \| 🌐 Dart \| 📅 2026-10-08      | Open-source Notion alternative                             |
-| [Logseq](https://github.com/logseq/logseq) ⭐ 45,211 \| 🐛 1,000 \| 🌐 Clojure \| 📅 2026-10-11            | Local-first knowledge management                           |
-| [Joplin](https://github.com/laurent22/joplin) ⭐ 56,688 \| 🐛 638 \| 🌐 TypeScript \| 📅 2026-10-11        | Privacy-focused notes with sync                            |
-| [MinerU](https://github.com/opendatalab/MinerU) ⭐ 81,467 \| 🐛 12 \| 🌐 Python \| 📅 2026-10-11           | Converts PDFs and Office docs into LLM-ready markdown/JSON |
+| [Docmost](https://github.com/docmost/docmost) ⭐ 21,954 \| 🐛 355 \| 🌐 TypeScript \| 📅 2026-10-12        | Collaborative wiki and docs                                |
+| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ⭐ 77,271 \| 🐛 1,037 \| 🌐 Dart \| 📅 2026-10-08      | Open-source Notion alternative                             |
+| [Logseq](https://github.com/logseq/logseq) ⭐ 45,216 \| 🐛 1,012 \| 🌐 Clojure \| 📅 2026-10-12            | Local-first knowledge management                           |
+| [Joplin](https://github.com/laurent22/joplin) ⭐ 56,704 \| 🐛 641 \| 🌐 TypeScript \| 📅 2026-10-12        | Privacy-focused notes with sync                            |
+| [MinerU](https://github.com/opendatalab/MinerU) ⭐ 81,568 \| 🐛 10 \| 🌐 Python \| 📅 2026-10-12           | Converts PDFs and Office docs into LLM-ready markdown/JSON |
 
 ## Deployment and operations
 
@@ -335,16 +335,16 @@ Deploy apps, run infrastructure, ship mobile releases, and monitor uptime.
 
 | Tool                                                                                                                                              | Use                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| [Coolify](https://github.com/coollabsio/coolify) ⭐ 62,869 \| 🐛 723 \| 🌐 PHP \| 📅 2026-10-11                                                    | Self-hosted deployment platform                           |
-| [Dokploy](https://github.com/Dokploy/dokploy) ⭐ 37,755 \| 🐛 788 \| 🌐 TypeScript \| 📅 2026-10-08                                                | Open-source Vercel/Netlify/Heroku alternative             |
-| [CapRover](https://github.com/caprover/caprover) ⭐ 15,186 \| 🐛 179 \| 🌐 TypeScript \| 📅 2026-10-09                                             | Docker-powered app deployment platform                    |
-| [Dokku](https://github.com/dokku/dokku) ⭐ 32,177 \| 🐛 40 \| 🌐 Go \| 📅 2026-10-11                                                               | Lightweight Heroku-style PaaS                             |
-| [OpenStatus](https://github.com/openstatusHQ/openstatus) ⭐ 9,178 \| 🐛 83 \| 🌐 TypeScript \| 📅 2026-10-11                                       | Uptime monitoring and status pages                        |
-| [fastlane](https://github.com/fastlane/fastlane) ⭐ 42,232 \| 🐛 671 \| 🌐 Ruby \| 📅 2026-10-10                                                   | iOS/Android beta deploys, screenshots, metadata, releases |
+| [Coolify](https://github.com/coollabsio/coolify) ⭐ 62,907 \| 🐛 721 \| 🌐 PHP \| 📅 2026-10-12                                                    | Self-hosted deployment platform                           |
+| [Dokploy](https://github.com/Dokploy/dokploy) ⭐ 37,768 \| 🐛 776 \| 🌐 TypeScript \| 📅 2026-10-12                                                | Open-source Vercel/Netlify/Heroku alternative             |
+| [CapRover](https://github.com/caprover/caprover) ⭐ 15,185 \| 🐛 184 \| 🌐 TypeScript \| 📅 2026-10-12                                             | Docker-powered app deployment platform                    |
+| [Dokku](https://github.com/dokku/dokku) ⭐ 32,176 \| 🐛 38 \| 🌐 Go \| 📅 2026-10-12                                                               | Lightweight Heroku-style PaaS                             |
+| [OpenStatus](https://github.com/openstatusHQ/openstatus) ⭐ 9,179 \| 🐛 84 \| 🌐 TypeScript \| 📅 2026-10-12                                       | Uptime monitoring and status pages                        |
+| [fastlane](https://github.com/fastlane/fastlane) ⭐ 42,238 \| 🐛 673 \| 🌐 Ruby \| 📅 2026-10-12                                                   | iOS/Android beta deploys, screenshots, metadata, releases |
 | [video-preview-appstore](https://github.com/mdo91/video-preview-appstore) ⭐ 16 \| 🐛 0 \| 🌐 Swift \| 📅 2026-05-12                               | App Store preview-compatible MP4 conversion               |
 | [App Store Screenshots Generator](https://github.com/jawwadfirdousi/appstore-screenshots-generator) ⭐ 4 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-05-10 | App Store screenshot generator                            |
 | [Appshot](https://github.com/chrisvanbuskirk/appshot) ⚠️ Archived                                                                                 | CLI for App Store screenshots                             |
-| [Storeshots](https://github.com/eralpozcan/storeshots) ⭐ 24 \| 🐛 0 \| 🌐 Vue \| 📅 2026-08-07                                                    | App Store and Google Play screenshot generator            |
+| [Storeshots](https://github.com/eralpozcan/storeshots) ⭐ 25 \| 🐛 0 \| 🌐 Vue \| 📅 2026-08-07                                                    | App Store and Google Play screenshot generator            |
 
 ## Security and legal
 
@@ -352,9 +352,9 @@ Reduce launch risk before users, money, and customer data arrive.
 
 | Tool                                                                                                             | Use                                            |
 | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| [Bitwarden Clients](https://github.com/bitwarden/clients) ⭐ 13,967 \| 🐛 1,346 \| 🌐 TypeScript \| 📅 2026-10-11 | Password manager clients and CLI               |
-| [Trail of Bits skills](https://github.com/trailofbits/skills) ⭐ 7,483 \| 🐛 39 \| 🌐 Python \| 📅 2026-10-09     | Claude Code security research and audit skills |
-| [Documenso](https://github.com/documenso/documenso) ⭐ 15,391 \| 🐛 215 \| 🌐 TypeScript \| 📅 2026-10-11         | Open-source DocuSign alternative               |
+| [Bitwarden Clients](https://github.com/bitwarden/clients) ⭐ 13,970 \| 🐛 1,368 \| 🌐 TypeScript \| 📅 2026-10-13 | Password manager clients and CLI               |
+| [Trail of Bits skills](https://github.com/trailofbits/skills) ⭐ 7,496 \| 🐛 39 \| 🌐 Python \| 📅 2026-10-09     | Claude Code security research and audit skills |
+| [Documenso](https://github.com/documenso/documenso) ⭐ 15,401 \| 🐛 214 \| 🌐 TypeScript \| 📅 2026-10-13         | Open-source DocuSign alternative               |
 
 ## Productivity
 
@@ -362,14 +362,14 @@ Local tools for faster solo-operator workflows.
 
 | Tool                                                                                                             | Use                                                                                             |                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| [Maccy](https://github.com/p0deje/Maccy) ⭐ 21,887 \| 🐛 194 \| 🌐 Swift \| 📅 2026-10-06                         | Lightweight macOS clipboard manager                                                             |                                                                                                                                        |
-| [Rectangle](https://github.com/rxhanson/Rectangle) ⭐ 30,058 \| 🐛 70 \| 🌐 Swift \| 📅 2026-10-09                | macOS window management                                                                         |                                                                                                                                        |
-| [Espanso](https://github.com/espanso/espanso) ⭐ 14,619 \| 🐛 562 \| 🌐 Rust \| 📅 2026-10-11                     | Cross-platform text expander                                                                    |                                                                                                                                        |
-| [ActivityWatch](https://github.com/ActivityWatch/activitywatch) ⭐ 19,193 \| 🐛 185 \| 🌐 Python \| 📅 2026-10-10 | Privacy-first automated time tracker                                                            |                                                                                                                                        |
-| [Ice](https://github.com/jordanbaird/Ice) ⭐ 29,776 \| 🐛 446 \| 🌐 Swift \| 📅 2026-10-06                        | macOS menu bar manager                                                                          |                                                                                                                                        |
-| [LocalSend](https://github.com/localsend/localsend) ⭐ 94,003 \| 🐛 1,010 \| 🌐 Dart \| 📅 2026-10-10             | Local cross-platform file sharing                                                               |                                                                                                                                        |
-| [Syncthing](https://github.com/syncthing/syncthing) ⭐ 89,317 \| 🐛 388 \| 🌐 Go \| 📅 2026-10-10                 | Continuous private file sync                                                                    |                                                                                                                                        |
-| [Zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,035 \| 🐛 148 \| 🌐 Rust \| 📅 2026-10-03                   | Smarter terminal directory jumping                                                              |                                                                                                                                        |
+| [Maccy](https://github.com/p0deje/Maccy) ⭐ 21,903 \| 🐛 194 \| 🌐 Swift \| 📅 2026-10-12                         | Lightweight macOS clipboard manager                                                             |                                                                                                                                        |
+| [Rectangle](https://github.com/rxhanson/Rectangle) ⭐ 30,061 \| 🐛 71 \| 🌐 Swift \| 📅 2026-10-12                | macOS window management                                                                         |                                                                                                                                        |
+| [Espanso](https://github.com/espanso/espanso) ⭐ 14,625 \| 🐛 563 \| 🌐 Rust \| 📅 2026-10-11                     | Cross-platform text expander                                                                    |                                                                                                                                        |
+| [ActivityWatch](https://github.com/ActivityWatch/activitywatch) ⭐ 19,214 \| 🐛 182 \| 🌐 Python \| 📅 2026-10-12 | Privacy-first automated time tracker                                                            |                                                                                                                                        |
+| [Ice](https://github.com/jordanbaird/Ice) ⭐ 29,783 \| 🐛 446 \| 🌐 Swift \| 📅 2026-10-06                        | macOS menu bar manager                                                                          |                                                                                                                                        |
+| [LocalSend](https://github.com/localsend/localsend) ⭐ 94,142 \| 🐛 1,017 \| 🌐 Dart \| 📅 2026-10-10             | Local cross-platform file sharing                                                               |                                                                                                                                        |
+| [Syncthing](https://github.com/syncthing/syncthing) ⭐ 89,342 \| 🐛 388 \| 🌐 Go \| 📅 2026-10-13                 | Continuous private file sync                                                                    |                                                                                                                                        |
+| [Zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,065 \| 🐛 149 \| 🌐 Rust \| 📅 2026-10-03                   | Smarter terminal directory jumping                                                              |                                                                                                                                        |
 |                                                                                                                  | [devrunner](https://github.com/princepal9120/devrunner) ⭐ 2 \| 🐛 6 \| 🌐 Rust \| 📅 2026-06-21 | Rust-powered terminal task runner with zero configuration                                                                              |
 |                                                                                                                  | [MacPulse](https://github.com/princepal9120/MacPulse) ⭐ 2 \| 🐛 0 \| 🌐 Swift \| 📅 2026-09-27  | Native macOS system utility — deep cache cleaning, app uninstall residuals, APFS analysis, duplicate finding, live resource monitoring |
 
@@ -395,4 +395,4 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
